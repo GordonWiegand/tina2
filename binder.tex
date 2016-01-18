@@ -1,0 +1,59 @@
+\documentclass[13pt,a5paper,twoside, DIV=calc]{scrbook}
+\usepackage[ngerman]{babel}
+%Schrift Quattrocento
+\usepackage{heuristica}
+\usepackage[heuristica,vvarbb,bigdelims]{newtxmath}
+\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{\textosf{#1}}
+%Erlaubt Einsatz von Farbe
+\usepackage[svgnames]{xcolor}
+%UTF 8
+\usepackage[utf8]{inputenc}
+%Schweizer Anführungszeichen
+\usepackage[german=swiss]{csquotes}
+%Ermöglicht Zierkapitälchen zum Anbsatzanfang
+\usepackage{lettrine}
+\input Kramer.fd
+\renewcommand{\LettrineFontHook}{\usefont{U}{Kramer}{xl}{n}}
+%Fourier Ornamente für Seitenkopf
+\usepackage{fourier-orns}
+%Um Seitenkopf zu manipulieren
+\usepackage{scrpage2}
+\pagestyle{scrheadings} 
+%Kapitelüberschriften 
+\addtokomafont{chapter}{\color{blue}\rmfamily\Huge\centering\itshape}
+%Viktorianische Ornamente
+\usepackage{pgfornament} 
+%Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Fleurons in der Mitte
+\chead{\color{DeepPink}\pgfornament[width=8cm,color=DeepPink]{88}}
+%Schrift für Überschriften
+\def\FontH{\centering\fontsize{10pt}{0mm}\usefont{T1}{frc}{m}{n}}
+%Bilder einbinden
+\usepackage{graphicx}
+%Bilder auf ganze Seite ausdehnen
+\usepackage{afterpage}
+%Bilder von Text umfliessen lassen
+\usepackage[vflt]{floatflt} %vflt=ungerade Seitenzahl Bild rechts und v.v.)
+%Für Kapitel Gespenst Jonathan Rahmen ermöglichen
+\usepackage[everyline=true]{mdframed}
+%Definition Rahmen: links dicker roter balken
+\usepackage{tikz} % used for the 'logo' und 
+%Abstand zw. Wörtern darf zwecks Blocksatzbildung in Ausnahmefällen bis 1em breit werden.
+\setlength{\emergencystretch}{1em}
+%Seitenzahlen fett
+\addtokomafont{pagenumber}{\bfseries}
+%Satzspiegelberechnung mit allen Parametern nochmals durchführen
+\KOMAoptions{DIV=calc}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%titelseite
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Kapitel einfügen
+\input{./kapitel/uhr}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Inhaltsverzeichnis
+\newpage
+\pagestyle{empty}
+\tableofcontents
+
+\end{document}
