@@ -1,2 +1,2 @@
 \select@language {ngerman}
-\contentsline {chapter}{\numberline {1}Die Uhr}{1}
+\contentsline {chapter}{Die Uhr}{1}

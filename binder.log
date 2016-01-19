@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  18 JAN 2016 10:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  19 JAN 2016 09:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2286,9 +2286,8 @@ e
 \AtBeginShipoutBox=\box68
 
 (./kapitel/uhr.tex
-chapter 1.
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 1.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
@@ -2309,83 +2308,94 @@ LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
 (Font)              scaled to size 32.34409pt on input line 1.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/it' will be
 (Font)              scaled to size 32.34409pt on input line 1.
-LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/it' will be
-(Font)              scaled to size 26.96207pt on input line 1.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/sc' will be
-(Font)              scaled to size 13.0pt on input line 2.
-)
-Overfull \hbox (8.51297pt too wide) in paragraph at lines 4--55
-\T1/Heuristica-TLF/m/n/13 zi-se Zeit-sys-te-me (Welt-zeit, Atom-zeit) eta-blier
-t, die durch
- []
-
+(Font)              scaled to size 13.0pt on input line 3.
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
+(Font)              scaled to size 13.0pt on input line 8.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/sl' in size <13> not availa
 ble
 (Font)              Font shape `T1/Heuristica-TLF/m/it' tried instead on input 
-line 55.
+line 21.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
-(Font)              scaled to size 13.0pt on input line 55.
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 55.
+(Font)              scaled to size 13.0pt on input line 21.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 21.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 9.48994pt on input line 55.
+(Font)              scaled to size 9.48994pt on input line 21.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 7.15004pt on input line 55.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 55.
+(Font)              scaled to size 7.15004pt on input line 21.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 55.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 21.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 55.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 21.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 13.0pt on input line 55.
+(Font)              scaled to size 13.0pt on input line 21.
  [1
 
 
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[2] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[3]
+Overfull \hbox (13.1261pt too wide) in paragraph at lines 75--83
+[]\T1/Heuristica-TLF/m/n/13 Wenn du bei-spiels-wei-se an die ers-ten See-fah-re
+r denkst,
+ []
+
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[4]
+Underfull \hbox (badness 2409) in paragraph at lines 93--101
+\T1/Heuristica-TLF/m/n/13 wei-ter-hin. Ein Zug-fahr-plan wä-re oh-ne mi-nu-ten-
+ge-
+ []
+
+) (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[5] [6
 
 ] (./binder.toc)
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
-
-[3] (./binder.aux)
+ [7] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.08206pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 27246 strings out of 493054
- 510888 string characters out of 6134760
- 591799 words of memory out of 5000000
- 30279 multiletter control sequences out of 15000+600000
- 41278 words of font info for 57 fonts, out of 8000000 for 9000
+ 27283 strings out of 493054
+ 512247 string characters out of 6134760
+ 593799 words of memory out of 5000000
+ 30304 multiletter control sequences out of 15000+600000
+ 39567 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,11n,69p,10434b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,11n,69p,10434b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/heuristica/zut_geqeyh.enc}<
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/heuristica/Heuristica-Bol
 d.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/heuristica/Heurist
 ica-BoldItalic.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/heuri
-stica/Heuristica-Regular.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/initials/Kramer.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/cm-super/sfsx1200.pfb>
-Output written on binder.pdf (3 pages, 120344 bytes).
+stica/Heuristica-Italic.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/heuristica/Heuristica-Regular.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/initials/Kramer.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/public/cm-super/sfsx1200.pfb>
+Output written on binder.pdf (7 pages, 175096 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
