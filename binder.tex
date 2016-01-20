@@ -14,26 +14,21 @@
 %Ermöglicht Zierkapitälchen zum Anbsatzanfang
 \usepackage{lettrine}
 \input Kramer.fd
-\renewcommand{\LettrineFontHook}{\usefont{U}{Kramer}{xl}{n}}
-%Fourier Ornamente für Seitenkopf
-\usepackage{fourier-orns}
+\renewcommand{\LettrineFontHook}{\color{black}\relax\usefont{U}{Kramer}{xl}{n}}
 %Um Seitenkopf zu manipulieren
 \usepackage{scrpage2}
 \pagestyle{scrheadings} 
+%Schrift für Überschriften
+\input Sanremo.fd
+\def\FontH{\centering\fontsize{40pt}{0mm}\usefont{U}{Sanremo}{xl}{n}}
 %Kapitelüberschriften 
 \addtokomafont{chapter}{\color{blue}\rmfamily\Huge\centering\itshape}
-%Viktorianische Ornamente
-\usepackage{pgfornament} 
-%Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Fleurons in der Mitte
-\chead{\color{DeepPink}\pgfornament[width=8cm,color=DeepPink]{88}}
-%Schrift für Überschriften
-\def\FontH{\centering\fontsize{10pt}{0mm}\usefont{T1}{frc}{m}{n}}
 %Bilder einbinden
 \usepackage{graphicx}
 %Bilder auf ganze Seite ausdehnen
 \usepackage{afterpage}
 %Bilder von Text umfliessen lassen
-\usepackage[vflt]{floatflt} %vflt=ungerade Seitenzahl Bild rechts und v.v.)
+%\usepackage[vflt]{floatflt} %vflt=ungerade Seitenzahl Bild rechts und v.v.)
 %Für Kapitel Gespenst Jonathan Rahmen ermöglichen
 \usepackage[everyline=true]{mdframed}
 %Definition Rahmen: links dicker roter balken
@@ -49,6 +44,7 @@
 %titelseite
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Kapitel einfügen
+\input{bildtest}
 \input{./kapitel/uhr}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Inhaltsverzeichnis
