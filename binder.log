@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  21 JAN 2016 10:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  21 JAN 2016 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1555,62 +1555,11 @@ Package graphics Info: Driver file: pdftex.def on input line 94.
 \Gin@req@height=\dimen129
 \Gin@req@width=\dimen130
 )
-
-Class scrbook Warning: Usage of package `titlesec' together
-(scrbook)              with a KOMA-Script class is not recommended.
-(scrbook)              I'd suggest to use the package only
-(scrbook)              if you really need it, because it breaks several
-(scrbook)              KOMA-Script features, i.e., option `headings' and
-(scrbook)              the extended optional argument of the section
-(scrbook)              commands.
-(scrbook)              Nevertheless, using requested
-(scrbook)              package `titlesec' on input line 25.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box31
-\beforetitleunit=\skip51
-\aftertitleunit=\skip52
-\ttl@plus=\dimen131
-\ttl@minus=\dimen132
-\ttl@toksa=\toks25
-\titlewidth=\dimen133
-\titlewidthlast=\dimen134
-\titlewidthfirst=\dimen135
-
-
-Package titlesec Warning: Non standard sectioning command detected
-(titlesec)                Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command detected
-(titlesec)                Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command detected
-(titlesec)                Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command detected
-(titlesec)                Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command detected
-(titlesec)                Using default spacing and no format.
-
-)
-
-Package scrbook Warning: Activating an ugly workaround for a missing
-(scrbook)                feature of package `titlesec` on input line 25.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/initials/Sanremo.fd
-File: Sanremo.fd 2003/04/02 Font definition file for U/Sanremo
-)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks26
-\AP@partial=\box32
-\AP@footins=\box33
+\AP@output=\toks25
+\AP@partial=\box31
+\AP@footins=\box32
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
@@ -1661,18 +1610,18 @@ L3 Module: l3file 2015/09/23 v6037 L3 File and I/O operations
 \l__iow_current_word_int=\count125
 \l__iow_current_indentation_int=\count126
 L3 Module: l3skip 2015/09/25 v6089 L3 Dimensions and skips
-\c_zero_dim=\dimen136
-\c_max_dim=\dimen137
-\l_tmpa_dim=\dimen138
-\l_tmpb_dim=\dimen139
-\g_tmpa_dim=\dimen140
-\g_tmpb_dim=\dimen141
-\c_zero_skip=\skip53
-\c_max_skip=\skip54
-\l_tmpa_skip=\skip55
-\l_tmpb_skip=\skip56
-\g_tmpa_skip=\skip57
-\g_tmpb_skip=\skip58
+\c_zero_dim=\dimen131
+\c_max_dim=\dimen132
+\l_tmpa_dim=\dimen133
+\l_tmpb_dim=\dimen134
+\g_tmpa_dim=\dimen135
+\g_tmpb_dim=\dimen136
+\c_zero_skip=\skip51
+\c_max_skip=\skip52
+\l_tmpa_skip=\skip53
+\l_tmpb_skip=\skip54
+\g_tmpa_skip=\skip55
+\g_tmpb_skip=\skip56
 \c_zero_muskip=\muskip11
 \c_max_muskip=\muskip12
 \l_tmpa_muskip=\muskip13
@@ -1693,49 +1642,49 @@ L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
 \c__fp_Bigg_middle_shift_int=\count136
 \c__fp_Bigg_trailing_shift_int=\count137
 L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
-\c_empty_box=\box34
-\l_tmpa_box=\box35
-\l_tmpb_box=\box36
-\g_tmpa_box=\box37
-\g_tmpb_box=\box38
+\c_empty_box=\box33
+\l_tmpa_box=\box34
+\l_tmpb_box=\box35
+\g_tmpa_box=\box36
+\g_tmpb_box=\box37
 L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
-\l__coffin_internal_box=\box39
-\l__coffin_internal_dim=\dimen142
-\l__coffin_offset_x_dim=\dimen143
-\l__coffin_offset_y_dim=\dimen144
-\l__coffin_x_dim=\dimen145
-\l__coffin_y_dim=\dimen146
-\l__coffin_x_prime_dim=\dimen147
-\l__coffin_y_prime_dim=\dimen148
-\c_empty_coffin=\box40
-\l__coffin_aligned_coffin=\box41
-\l__coffin_aligned_internal_coffin=\box42
-\l_tmpa_coffin=\box43
-\l_tmpb_coffin=\box44
-\l__coffin_display_coffin=\box45
-\l__coffin_display_coord_coffin=\box46
-\l__coffin_display_pole_coffin=\box47
-\l__coffin_display_offset_dim=\dimen149
-\l__coffin_display_x_dim=\dimen150
-\l__coffin_display_y_dim=\dimen151
+\l__coffin_internal_box=\box38
+\l__coffin_internal_dim=\dimen137
+\l__coffin_offset_x_dim=\dimen138
+\l__coffin_offset_y_dim=\dimen139
+\l__coffin_x_dim=\dimen140
+\l__coffin_y_dim=\dimen141
+\l__coffin_x_prime_dim=\dimen142
+\l__coffin_y_prime_dim=\dimen143
+\c_empty_coffin=\box39
+\l__coffin_aligned_coffin=\box40
+\l__coffin_aligned_internal_coffin=\box41
+\l_tmpa_coffin=\box42
+\l_tmpb_coffin=\box43
+\l__coffin_display_coffin=\box44
+\l__coffin_display_coord_coffin=\box45
+\l__coffin_display_pole_coffin=\box46
+\l__coffin_display_offset_dim=\dimen144
+\l__coffin_display_x_dim=\dimen145
+\l__coffin_display_y_dim=\dimen146
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
 L3 Module: l3candidates 2015/11/01 v6216 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen152
-\l__box_bottom_dim=\dimen153
-\l__box_left_dim=\dimen154
-\l__box_right_dim=\dimen155
-\l__box_top_new_dim=\dimen156
-\l__box_bottom_new_dim=\dimen157
-\l__box_left_new_dim=\dimen158
-\l__box_right_new_dim=\dimen159
-\l__box_internal_box=\box48
-\l__coffin_bounding_shift_dim=\dimen160
-\l__coffin_left_corner_dim=\dimen161
-\l__coffin_right_corner_dim=\dimen162
-\l__coffin_bottom_corner_dim=\dimen163
-\l__coffin_top_corner_dim=\dimen164
-\l__coffin_scaled_total_height_dim=\dimen165
-\l__coffin_scaled_width_dim=\dimen166
+\l__box_top_dim=\dimen147
+\l__box_bottom_dim=\dimen148
+\l__box_left_dim=\dimen149
+\l__box_right_dim=\dimen150
+\l__box_top_new_dim=\dimen151
+\l__box_bottom_new_dim=\dimen152
+\l__box_left_new_dim=\dimen153
+\l__box_right_new_dim=\dimen154
+\l__box_internal_box=\box47
+\l__coffin_bounding_shift_dim=\dimen155
+\l__coffin_left_corner_dim=\dimen156
+\l__coffin_right_corner_dim=\dimen157
+\l__coffin_bottom_corner_dim=\dimen158
+\l__coffin_top_corner_dim=\dimen159
+\l__coffin_scaled_total_height_dim=\dimen160
+\l__coffin_scaled_width_dim=\dimen161
 L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
 L3 Module: l3luatex 2015/09/10 v5983 L3 Experimental LuaTeX-specific functions
 )
@@ -1791,83 +1740,83 @@ Package zref Info: New property: abspage on input line 62.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip59
+\mdf@templength=\skip57
 \c@mdf@globalstyle@cnt=\count145
-\mdf@skipabove@length=\skip60
-\mdf@skipbelow@length=\skip61
-\mdf@leftmargin@length=\skip62
-\mdf@rightmargin@length=\skip63
-\mdf@innerleftmargin@length=\skip64
-\mdf@innerrightmargin@length=\skip65
-\mdf@innertopmargin@length=\skip66
-\mdf@innerbottommargin@length=\skip67
-\mdf@splittopskip@length=\skip68
-\mdf@splitbottomskip@length=\skip69
-\mdf@outermargin@length=\skip70
-\mdf@innermargin@length=\skip71
-\mdf@linewidth@length=\skip72
-\mdf@innerlinewidth@length=\skip73
-\mdf@middlelinewidth@length=\skip74
-\mdf@outerlinewidth@length=\skip75
-\mdf@roundcorner@length=\skip76
-\mdf@footenotedistance@length=\skip77
-\mdf@userdefinedwidth@length=\skip78
-\mdf@needspace@length=\skip79
-\mdf@frametitleaboveskip@length=\skip80
-\mdf@frametitlebelowskip@length=\skip81
-\mdf@frametitlerulewidth@length=\skip82
-\mdf@frametitleleftmargin@length=\skip83
-\mdf@frametitlerightmargin@length=\skip84
-\mdf@shadowsize@length=\skip85
-\mdf@extratopheight@length=\skip86
-\mdf@subtitleabovelinewidth@length=\skip87
-\mdf@subtitlebelowlinewidth@length=\skip88
-\mdf@subtitleaboveskip@length=\skip89
-\mdf@subtitlebelowskip@length=\skip90
-\mdf@subtitleinneraboveskip@length=\skip91
-\mdf@subtitleinnerbelowskip@length=\skip92
-\mdf@subsubtitleabovelinewidth@length=\skip93
-\mdf@subsubtitlebelowlinewidth@length=\skip94
-\mdf@subsubtitleaboveskip@length=\skip95
-\mdf@subsubtitlebelowskip@length=\skip96
-\mdf@subsubtitleinneraboveskip@length=\skip97
-\mdf@subsubtitleinnerbelowskip@length=\skip98
+\mdf@skipabove@length=\skip58
+\mdf@skipbelow@length=\skip59
+\mdf@leftmargin@length=\skip60
+\mdf@rightmargin@length=\skip61
+\mdf@innerleftmargin@length=\skip62
+\mdf@innerrightmargin@length=\skip63
+\mdf@innertopmargin@length=\skip64
+\mdf@innerbottommargin@length=\skip65
+\mdf@splittopskip@length=\skip66
+\mdf@splitbottomskip@length=\skip67
+\mdf@outermargin@length=\skip68
+\mdf@innermargin@length=\skip69
+\mdf@linewidth@length=\skip70
+\mdf@innerlinewidth@length=\skip71
+\mdf@middlelinewidth@length=\skip72
+\mdf@outerlinewidth@length=\skip73
+\mdf@roundcorner@length=\skip74
+\mdf@footenotedistance@length=\skip75
+\mdf@userdefinedwidth@length=\skip76
+\mdf@needspace@length=\skip77
+\mdf@frametitleaboveskip@length=\skip78
+\mdf@frametitlebelowskip@length=\skip79
+\mdf@frametitlerulewidth@length=\skip80
+\mdf@frametitleleftmargin@length=\skip81
+\mdf@frametitlerightmargin@length=\skip82
+\mdf@shadowsize@length=\skip83
+\mdf@extratopheight@length=\skip84
+\mdf@subtitleabovelinewidth@length=\skip85
+\mdf@subtitlebelowlinewidth@length=\skip86
+\mdf@subtitleaboveskip@length=\skip87
+\mdf@subtitlebelowskip@length=\skip88
+\mdf@subtitleinneraboveskip@length=\skip89
+\mdf@subtitleinnerbelowskip@length=\skip90
+\mdf@subsubtitleabovelinewidth@length=\skip91
+\mdf@subsubtitlebelowlinewidth@length=\skip92
+\mdf@subsubtitleaboveskip@length=\skip93
+\mdf@subsubtitlebelowskip@length=\skip94
+\mdf@subsubtitleinneraboveskip@length=\skip95
+\mdf@subsubtitleinnerbelowskip@length=\skip96
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
-\mdf@frametitlebox=\box49
-\mdf@footnotebox=\box50
-\mdf@splitbox@one=\box51
-\mdf@splitbox@two=\box52
-\mdf@splitbox@save=\box53
-\mdfsplitboxwidth=\skip99
-\mdfsplitboxtotalwidth=\skip100
-\mdfsplitboxheight=\skip101
-\mdfsplitboxdepth=\skip102
-\mdfsplitboxtotalheight=\skip103
-\mdfframetitleboxwidth=\skip104
-\mdfframetitleboxtotalwidth=\skip105
-\mdfframetitleboxheight=\skip106
-\mdfframetitleboxdepth=\skip107
-\mdfframetitleboxtotalheight=\skip108
-\mdffootnoteboxwidth=\skip109
-\mdffootnoteboxtotalwidth=\skip110
-\mdffootnoteboxheight=\skip111
-\mdffootnoteboxdepth=\skip112
-\mdffootnoteboxtotalheight=\skip113
-\mdftotallinewidth=\skip114
-\mdfboundingboxwidth=\skip115
-\mdfboundingboxtotalwidth=\skip116
-\mdfboundingboxheight=\skip117
-\mdfboundingboxdepth=\skip118
-\mdfboundingboxtotalheight=\skip119
-\mdf@freevspace@length=\skip120
-\mdf@horizontalwidthofbox@length=\skip121
-\mdf@verticalmarginwhole@length=\skip122
-\mdf@horizontalspaceofbox=\skip123
-\mdfsubtitleheight=\skip124
-\mdfsubsubtitleheight=\skip125
+\mdf@frametitlebox=\box48
+\mdf@footnotebox=\box49
+\mdf@splitbox@one=\box50
+\mdf@splitbox@two=\box51
+\mdf@splitbox@save=\box52
+\mdfsplitboxwidth=\skip97
+\mdfsplitboxtotalwidth=\skip98
+\mdfsplitboxheight=\skip99
+\mdfsplitboxdepth=\skip100
+\mdfsplitboxtotalheight=\skip101
+\mdfframetitleboxwidth=\skip102
+\mdfframetitleboxtotalwidth=\skip103
+\mdfframetitleboxheight=\skip104
+\mdfframetitleboxdepth=\skip105
+\mdfframetitleboxtotalheight=\skip106
+\mdffootnoteboxwidth=\skip107
+\mdffootnoteboxtotalwidth=\skip108
+\mdffootnoteboxheight=\skip109
+\mdffootnoteboxdepth=\skip110
+\mdffootnoteboxtotalheight=\skip111
+\mdftotallinewidth=\skip112
+\mdfboundingboxwidth=\skip113
+\mdfboundingboxtotalwidth=\skip114
+\mdfboundingboxheight=\skip115
+\mdfboundingboxdepth=\skip116
+\mdfboundingboxtotalheight=\skip117
+\mdf@freevspace@length=\skip118
+\mdf@horizontalwidthofbox@length=\skip119
+\mdf@verticalmarginwhole@length=\skip120
+\mdf@horizontalspaceofbox=\skip121
+\mdfsubtitleheight=\skip122
+\mdfsubsubtitleheight=\skip123
 \c@mdfcountframes=\count146
 
 ****** mdframed patching \endmdf@trivlist
@@ -1895,14 +1844,14 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen167
-\pgfutil@tempdimb=\dimen168
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box54
+\pgfutil@abb=\box53
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -1915,30 +1864,30 @@ Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks30
+\pgfkeys@tmptoks=\toks29
 ))
-\pgf@x=\dimen169
-\pgf@y=\dimen170
-\pgf@xa=\dimen171
-\pgf@ya=\dimen172
-\pgf@xb=\dimen173
-\pgf@yb=\dimen174
-\pgf@xc=\dimen175
-\pgf@yc=\dimen176
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
 \c@pgf@counta=\count151
 \c@pgf@countb=\count152
 \c@pgf@countc=\count153
 \c@pgf@countd=\count154
-\t@pgf@toka=\toks31
-\t@pgf@tokb=\toks32
-\t@pgf@tokc=\toks33
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -1969,12 +1918,12 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen177
+\pgfmath@dimen=\dimen172
 \pgfmath@count=\count157
-\pgfmath@box=\box55
-\pgfmath@toks=\toks34
-\pgfmath@stack@operand=\toks35
-\pgfmath@stack@operation=\toks36
+\pgfmath@box=\box54
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
@@ -2000,52 +1949,52 @@ erarithmetics.code.tex)))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen178
-\pgf@picmaxx=\dimen179
-\pgf@picminy=\dimen180
-\pgf@picmaxy=\dimen181
-\pgf@pathminx=\dimen182
-\pgf@pathmaxx=\dimen183
-\pgf@pathminy=\dimen184
-\pgf@pathmaxy=\dimen185
-\pgf@xx=\dimen186
-\pgf@xy=\dimen187
-\pgf@yx=\dimen188
-\pgf@yy=\dimen189
-\pgf@zx=\dimen190
-\pgf@zy=\dimen191
+\pgf@picminx=\dimen173
+\pgf@picmaxx=\dimen174
+\pgf@picminy=\dimen175
+\pgf@picmaxy=\dimen176
+\pgf@pathminx=\dimen177
+\pgf@pathmaxx=\dimen178
+\pgf@pathminy=\dimen179
+\pgf@pathmaxy=\dimen180
+\pgf@xx=\dimen181
+\pgf@xy=\dimen182
+\pgf@yx=\dimen183
+\pgf@yy=\dimen184
+\pgf@zx=\dimen185
+\pgf@zy=\dimen186
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen192
-\pgf@path@lasty=\dimen193
+\pgf@path@lastx=\dimen187
+\pgf@path@lasty=\dimen188
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen194
-\pgf@shorten@start@additional=\dimen195
+\pgf@shorten@end@additional=\dimen189
+\pgf@shorten@start@additional=\dimen190
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box56
-\pgf@hbox=\box57
-\pgf@layerbox@main=\box58
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
 \pgf@picture@serial@count=\count159
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen196
+\pgflinewidth=\dimen191
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen197
-\pgf@pt@y=\dimen198
-\pgf@pt@temp=\dimen199
+\pgf@pt@x=\dimen192
+\pgf@pt@y=\dimen193
+\pgf@pt@temp=\dimen194
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -2062,12 +2011,12 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen256
+\pgfarrowsep=\dimen195
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen257
+\pgf@max=\dimen196
 \pgf@sys@shading@range@num=\count160
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
@@ -2077,7 +2026,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box59
+\pgfexternal@startupbox=\box58
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
@@ -2094,7 +2043,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box60
+\pgfnodeparttextbox=\box59
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
@@ -2103,8 +2052,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen258
-\pgf@nodesepend=\dimen259
+\pgf@nodesepstart=\dimen197
+\pgf@nodesepend=\dimen198
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -2119,10 +2068,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen260
-\pgffor@skip=\dimen261
-\pgffor@stack=\toks37
-\pgffor@toks=\toks38
+\pgffor@iter=\dimen199
+\pgffor@skip=\dimen256
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -2132,18 +2081,18 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count161
-\pgfplotmarksize=\dimen262
+\pgfplotmarksize=\dimen257
 )
-\tikz@lastx=\dimen263
-\tikz@lasty=\dimen264
-\tikz@lastxsaved=\dimen265
-\tikz@lastysaved=\dimen266
-\tikzleveldistance=\dimen267
-\tikzsiblingdistance=\dimen268
-\tikz@figbox=\box61
-\tikz@figbox@bg=\box62
-\tikz@tempbox=\box63
-\tikz@tempbox@bg=\box64
+\tikz@lastx=\dimen258
+\tikz@lasty=\dimen259
+\tikz@lastxsaved=\dimen260
+\tikz@lastysaved=\dimen261
+\tikzleveldistance=\dimen262
+\tikzsiblingdistance=\dimen263
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
 \tikztreelevel=\count162
 \tikznumberofchildren=\count163
 \tikznumberofcurrentchild=\count164
@@ -2164,13 +2113,13 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
 DIV calculation for typearea with good linewidth.
 LaTeX Font Info:    Try loading font information for T1+Heuristica-TLF on input
- line 69.
+ line 39.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/heuristica/T1Heuristica-TLF.fd
 File: T1Heuristica-TLF.fd 2015/01/04 (autoinst) Font definitions for T1/Heurist
 ica-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 13.0pt on input line 69.
+(Font)              scaled to size 13.0pt on input line 39.
 
 
 Package typearea Warning: Maybe no optimal type area settings!
@@ -2195,7 +2144,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 13.0pt
 (typearea)              \footskip       = 54.59984pt
 (typearea)              \baselineskip   = 15.59996pt
-(typearea)              on input line 69.
+(typearea)              on input line 39.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -2203,87 +2152,87 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (./binder.aux)
 \openout1 = `binder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zutmi/m/it on input line 71.
-LaTeX Font Info:    Try loading font information for OML+zutmi on input line 71
+LaTeX Font Info:    Checking defaults for OML/zutmi/m/it on input line 41.
+LaTeX Font Info:    Try loading font information for OML+zutmi on input line 41
 .
  (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/omlzutmi.fd
 File: omlzutmi.fd 2014/04/14 Fontinst v1.933 font definitions for OML/zutmi.
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 71
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 41
 .
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/omsntxsy.fd
 File: omsntxsy.fd 2012/11/14 Fontinst v1.933 font definitions for OMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 71.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 41.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 71.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 41.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for T2B+cmr on input line 71.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for T2B+cmr on input line 41.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for T2C+cmr on input line 71.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for T2C+cmr on input line 41.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for LY1+ptm on input line 71.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for LY1+ptm on input line 41.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 71.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 41.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 \c@mv@tabular=\count170
 \c@mv@boldtabular=\count171
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count172
-\scratchdimen=\dimen269
-\scratchbox=\box65
+\scratchdimen=\dimen264
+\scratchbox=\box64
 \nofMPsegments=\count173
 \nofMParguments=\count174
-\everyMPshowfont=\toks39
+\everyMPshowfont=\toks38
 \MPscratchCnt=\count175
-\MPscratchDim=\dimen270
+\MPscratchDim=\dimen265
 \MPnumerator=\count176
 \makeMPintoPDFobject=\count177
-\everyMPtoPDFconversion=\toks40
+\everyMPtoPDFconversion=\toks39
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -2299,95 +2248,115 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box66
+\AtBeginShipoutBox=\box65
 
 ABD: EveryShipout initializing macros (./kapitel/uhr.tex
 <./bilder/160120_uhr.png, id=4, 876.876pt x 1897.0875pt>
 File: ./bilder/160120_uhr.png Graphic file (type png)
 
 <use ./bilder/160120_uhr.png>
-Package pdftex.def Info: ./bilder/160120_uhr.png used on input line 2.
+Package pdftex.def Info: ./bilder/160120_uhr.png used on input line 3.
 (pdftex.def)             Requested size: 166.3272pt x 359.84047pt.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 32.34409pt on input line 4.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 4.
+(Font)              scaled to size 32.34409pt on input line 6.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+
+Class scrbook Warning: Usage of deprecated font command `\tt'!
+(scrbook)              You should note, that in 1994 font command `\tt' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\tt' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\tt' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\tt'
+(scrbook)              by `\normalfont \ttfamily ' on input line 6.
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
-LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <32.34409> not available
-(Font)              size <29.86> substituted on input line 4.
+LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <32.34409> not available
+(Font)              size <29.86> substituted on input line 6.
 
-
-LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <32.34409> not available
-(Font)              size <29.86> substituted on input line 4.
-
-LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/sl' in size <13> not availa
-ble
-(Font)              Font shape `T1/Heuristica-TLF/m/it' tried instead on input 
-line 6.
-LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
-(Font)              scaled to size 13.0pt on input line 6.
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 6.
-LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 9.48994pt on input line 6.
-LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 7.15004pt on input line 6.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 6.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxmia.fd
-File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
-)
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 6.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsym.fd
-File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
-)
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 6.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsyc.fd
-File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-)
-LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 13.0pt on input line 6.
- [1
+[1
 
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./bilde
 r/160120_uhr.png>]
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/sc' will be
-(Font)              scaled to size 13.0pt on input line 8.
+(Font)              scaled to size 13.0pt on input line 10.
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
+(Font)              scaled to size 13.0pt on input line 15.
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/sl' in size <13> not availa
+ble
+(Font)              Font shape `T1/Heuristica-TLF/m/it' tried instead on input 
+line 40.
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
+(Font)              scaled to size 13.0pt on input line 40.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 40.
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
+(Font)              scaled to size 9.48994pt on input line 40.
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
+(Font)              scaled to size 7.15004pt on input line 40.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 40.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 40.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 40.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
+(Font)              scaled to size 13.0pt on input line 40.
  [2] [3]
-Overfull \hbox (13.1261pt too wide) in paragraph at lines 80--88
+Overfull \hbox (13.1261pt too wide) in paragraph at lines 82--90
 []\T1/Heuristica-TLF/m/n/13 Wenn du bei-spiels-wei-se an die ers-ten See-fah-re
 r denkst,
  []
 
 [4]
-Underfull \hbox (badness 2409) in paragraph at lines 98--106
+Underfull \hbox (badness 2409) in paragraph at lines 100--108
 \T1/Heuristica-TLF/m/n/13 wei-ter-hin. Ein Zug-fahr-plan wä-re oh-ne mi-nu-ten-
 ge-
  []
 
 [5]) [6]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 50.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 80.
+(Font)              size <12> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 80.
+(Font)              size <12> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <26.96207> not available
-(Font)              size <24.88> substituted on input line 80.
+(Font)              size <24.88> substituted on input line 50.
 
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 26.96207pt on input line 80.
+(Font)              scaled to size 26.96207pt on input line 50.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 32.34409pt on input line 80.
+(Font)              scaled to size 32.34409pt on input line 50.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/it' will be
-(Font)              scaled to size 32.34409pt on input line 80.
+(Font)              scaled to size 32.34409pt on input line 50.
 (./binder.toc)
 \tf@toc=\write4
 \openout4 = `binder.toc'.
@@ -2401,13 +2370,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 27266 strings out of 493054
- 509399 string characters out of 6134760
- 590710 words of memory out of 5000000
- 30305 multiletter control sequences out of 15000+600000
- 43338 words of font info for 60 fonts, out of 8000000 for 9000
+ 27029 strings out of 493054
+ 506623 string characters out of 6134760
+ 586697 words of memory out of 5000000
+ 30073 multiletter control sequences out of 15000+600000
+ 42109 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,11n,69p,10434b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,11n,69p,10434b,294s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/heuristica/zut_geqeyh.enc}<
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/heuristica/Heuristica-Bol
@@ -2417,8 +2386,8 @@ stica/Heuristica-Italic.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
 lic/heuristica/Heuristica-Regular.pfb></usr/local/texlive/2015/texmf-dist/fonts
 /type1/public/initials/Kramer.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
 e1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
-/public/cm-super/sfsx2986.pfb>
-Output written on binder.pdf (7 pages, 14988473 bytes).
+/public/cm-super/sftt2986.pfb>
+Output written on binder.pdf (7 pages, 14997265 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

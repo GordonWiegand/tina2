@@ -7,6 +7,7 @@
 \renewcommand*\oldstylenums[1]{\textosf{#1}}
 %Erlaubt Einsatz von Farbe
 \usepackage[svgnames]{xcolor}
+\definecolor{farbe}{HTML}{766D20}
 %UTF 8
 \usepackage[utf8]{inputenc}
 %Schweizer Anführungszeichen
@@ -14,7 +15,7 @@
 %Ermöglicht Zierkapitälchen zum Anbsatzanfang
 \usepackage{lettrine}
 \input Kramer.fd
-\renewcommand{\LettrineFontHook}{\color{black}\relax\usefont{U}{Kramer}{xl}{n}}
+\renewcommand{\LettrineFontHook}{\color{farbe}\relax\usefont{U}{Kramer}{xl}{n}}
 %Um Seitenkopf zu manipulieren
 \usepackage{scrpage2}
 \pagestyle{scrheadings} 
@@ -33,7 +34,7 @@
 %Abstand zw. Wörtern darf zwecks Blocksatzbildung in Ausnahmefällen bis 1em breit werden.
 \setlength{\emergencystretch}{1em}
 %Seitenzahlen fett
-\addtokomafont{pagenumber}{\bfseries}
+\addtokomafont{pagenumber}{\bfseries\color{farbe}}
 %Satzspiegelberechnung mit allen Parametern nochmals durchführen
 \KOMAoptions{DIV=calc}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
