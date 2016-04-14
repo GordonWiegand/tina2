@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  21 JAN 2016 16:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  14 APR 2016 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2334,46 +2334,78 @@ Underfull \hbox (badness 2409) in paragraph at lines 100--108
 ge-
  []
 
-[5]) [6]
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 50.
+[5]) (./kapitel/huhn.tex <./bilder/huhn2.png, id=29, 1327.359pt x 1447.3272pt>
+File: ./bilder/huhn2.png Graphic file (type png)
+
+<use ./bilder/huhn2.png>
+Package pdftex.def Info: ./bilder/huhn2.png used on input line 3.
+(pdftex.def)             Requested size: 288.75902pt x 314.85785pt.
+ [6]
+
+Class scrbook Warning: Usage of deprecated font command `\tt'!
+(scrbook)              You should note, that in 1994 font command `\tt' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\tt' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\tt' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\tt'
+(scrbook)              by `\normalfont \ttfamily ' on input line 6.
+
+[7 <./bilder/huhn2.png>]
+Underfull \hbox (badness 1571) in paragraph at lines 39--41
+[]\T1/Heuristica-TLF/m/n/13 Natürlich hat die Ant-wort Hen-ne Jo-han-na et-was
+ []
+
+[8]
+Overfull \hbox (6.03105pt too wide) in paragraph at lines 51--52
+[]\T1/Heuristica-TLF/m/n/13 ^^S  Häh-ne mein Lie-ber, sind be-kann-ter-mas-sen 
+die über-
+ []
+
+) [9] [10
+
+]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 51.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 50.
+(Font)              size <12> substituted on input line 51.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 50.
+(Font)              size <12> substituted on input line 51.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/bx/n' in size <26.96207> not available
-(Font)              size <24.88> substituted on input line 50.
+(Font)              size <24.88> substituted on input line 51.
 
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 26.96207pt on input line 50.
+(Font)              scaled to size 26.96207pt on input line 51.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 32.34409pt on input line 50.
+(Font)              scaled to size 32.34409pt on input line 51.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/it' will be
-(Font)              scaled to size 32.34409pt on input line 50.
+(Font)              scaled to size 32.34409pt on input line 51.
 (./binder.toc)
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [7
-
-] (./binder.aux)
+ [11] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.48409pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 27029 strings out of 493054
- 506623 string characters out of 6134760
+ 27040 strings out of 493054
+ 506827 string characters out of 6134760
  586697 words of memory out of 5000000
- 30073 multiletter control sequences out of 15000+600000
+ 30080 multiletter control sequences out of 15000+600000
  42109 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,11n,69p,10434b,294s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2387,10 +2419,10 @@ lic/heuristica/Heuristica-Regular.pfb></usr/local/texlive/2015/texmf-dist/fonts
 /type1/public/initials/Kramer.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
 e1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
 /public/cm-super/sftt2986.pfb>
-Output written on binder.pdf (7 pages, 14997265 bytes).
+Output written on binder.pdf (11 pages, 23125791 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
