@@ -1,10 +1,11 @@
 \documentclass[13pt,a5paper,twoside, DIV=calc]{scrbook}
 \usepackage[ngerman]{babel}
 %Schrift Quattrocento
-\usepackage{heuristica}
-\usepackage[heuristica,vvarbb,bigdelims]{newtxmath}
+
+%\usepackage[heuristica,vvarbb,bigdelims]{newtxmath}
 \usepackage[T1]{fontenc}
-\renewcommand*\oldstylenums[1]{\textosf{#1}}
+\usepackage[black]{merriweather}
+%\renewcommand*\oldstylenums[1]{\textosf{#1}}
 %Erlaubt Einsatz von Farbe
 \usepackage[svgnames]{xcolor}
 \definecolor{farbe}{HTML}{766D20}
@@ -20,7 +21,8 @@
 \usepackage{scrpage2}
 \pagestyle{scrheadings} 
 %Kapitelüberschriften 
-\addtokomafont{chapter}{\color{blue}\rmfamily\Huge\centering\itshape}
+%\addtokomafont{chapter}{\color{blue}\rmfamily\Huge\centering\itshape}
+\addtokomafont{chapter}{\Huge\merriweathersansblack}
 %Bilder einbinden
 \usepackage{graphicx}
 %Bilder auf ganze Seite ausdehnen
