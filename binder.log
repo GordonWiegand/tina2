@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 DEC 2016 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  27 JAN 2017 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1431,137 +1431,73 @@ e
 ))
 \AtBeginShipoutBox=\box65
 
-ABD: EveryShipout initializing macros (./kapitel/roboter.tex
-LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/n' will be
-(Font)              scaled to size 32.34409pt on input line 6.
-
-
-Class scrbook Warning: deprecated old font command `\tt' used.
-(scrbook)              You should note, that since 1994 LaTeX2e provides a
-(scrbook)              new font selection scheme called NFSS2 with several
-(scrbook)              new, combinable font commands. New KOMA-Script classes
-(scrbook)              have defined the old font commands like `\tt' only for
-(scrbook)              compatibility with LaTeX 2.09 document styles of
-(scrbook)              Script 2.0. These commands are deprecated and
-(scrbook)              undocumented at least since 2003. Since 2013,
-(scrbook)              KOMA-Script classes warn about soon removement of
-(scrbook)              these deprecated commands. Now, after two decades of
-(scrbook)              LaTeX2e, NFSS2, and KOMA-Script these commands will
-(scrbook)              not work any longer. If loading a package results in
-(scrbook)              this message you should contact the author of that
-(scrbook)              package and ask him to replace the depracted font
-(scrbook)              command `\tt', e.g., by `\normalfont \ttfamily '.
-(scrbook)              Otherwise you should reconfigure or replace the
-(scrbook)              package. If you have used the old font command
-(scrbook)              `\tt' yourself you should replace it, e.g., by
-(scrbook)              `\normalfont \ttfamily ' on input line 6.
-
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-
-LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <32.34409> not available
-(Font)              size <29.86> substituted on input line 6.
-
-[1
-
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Font Warning: Font shape `T1/Merriweather-OsF/m/sc' undefined
-(Font)              using `T1/Merriweather-OsF/m/n' instead on input line 11.
-
-LaTeX Font Info:    Try loading font information for OT1+Kramer on input line 1
-1.
-LaTeX Font Info:    No file OT1Kramer.fd. on input line 11.
-
-LaTeX Font Warning: Font shape `OT1/Kramer/xl/n' undefined
-(Font)              using `OT1/cmr/m/n' instead
-(Font)              for symbol `guillemotleft' on input line 11.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <37.61998> not available
-(Font)              size <24.88> substituted on input line 11.
-
-LaTeX Font Info:    Calculating math sizes for size <37.61998> on input line 11
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <26.33386> not available
-(Font)              size <24.88> substituted on input line 11.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18.80998> not available
-(Font)              size <17.28> substituted on input line 11.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <37.61998> not available
-(Font)              size <24.88> substituted on input line 11.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <26.33386> not available
-(Font)              size <24.88> substituted on input line 11.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <18.80998> not available
-(Font)              size <17.28> substituted on input line 11.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <37.61998> not available
-(Font)              size <24.88> substituted on input line 11.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <26.33386> not available
-(Font)              size <24.88> substituted on input line 11.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <18.80998> not available
-(Font)              size <17.28> substituted on input line 11.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <37.61998> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <26.33386> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <18.80998> on input line 11.
-LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/sc' will be
-(Font)              scaled to size 13.0pt on input line 11.
+ABD: EveryShipout initializing macros (./kapitel/anja.tex
 LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/sl' in size <13> not avai
 lable
 (Font)              Font shape `T1/Merriweather-OsF/m/it' tried instead on inpu
-t line 20.
+t line 10.
 LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
-(Font)              scaled to size 13.0pt on input line 20.
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 20.
+(Font)              scaled to size 13.0pt on input line 10.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 10.
+
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 20.
+(Font)              size <6> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 20.
+(Font)              size <12> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 20.
+(Font)              size <6> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 20.
+(Font)              size <12> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 20.
+(Font)              size <6> substituted on input line 10.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <13> on input line 20.
+(Font)              <13> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.09996> on input line 20.
+(Font)              <9.09996> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.5> on input line 20.
+(Font)              <6.5> on input line 10.
 LaTeX Font Info:    Font shape `T1/Merriweather-OsF/ub/n' will be
-(Font)              scaled to size 13.0pt on input line 20.
+(Font)              scaled to size 13.0pt on input line 10.
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-Underfull \vbox (badness 4266) has occurred while \output is active []
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 5.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 6.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 18.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 21.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 16.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 20.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 24.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 27.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/Merriweather-OsF/m/it' will be
+(Font)              scaled to size 30.0pt on input line 44.
+
+Underfull \vbox (badness 1430) has occurred while \output is active []
 
  [3])
 [4]
@@ -1590,34 +1526,28 @@ LaTeX Font Info:    Font shape `T1/MerriweatherSans-TLF/eb/n' will be
 ] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 12.73997pt have occurred.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+(Font)              up to 1.0pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 24758 strings out of 493014
- 485816 string characters out of 6133351
+ 24725 strings out of 493014
+ 485180 string characters out of 6133351
  600908 words of memory out of 5000000
- 27906 multiletter control sequences out of 15000+600000
- 15660 words of font info for 46 fonts, out of 8000000 for 9000
+ 27868 multiletter control sequences out of 15000+600000
+ 23377 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,11n,69p,10434b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,10n,69p,10434b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/merriweather/mwth_libw2m.
 enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/merriweather/mwth_jnnja
-b.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.
-enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/initials/Kramer.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/sorkin/merriweather/Merriweathe
-r-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/sorkin/merriweath
-er/Merriweather-UltraBold.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/s
-orkin/merriweather/MerriweatherSans-ExtraBold.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/public/cm-super/sftt2986.pfb>
-Output written on binder.pdf (5 pages, 78049 bytes).
+b.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/sorkin/merriweather/Merri
+weather-Italic.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/sorkin/merri
+weather/Merriweather-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/sorkin/merriweather/Merriweather-UltraBold.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/sorkin/merriweather/MerriweatherSans-ExtraBold.pfb>
+Output written on binder.pdf (5 pages, 59537 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 41 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
