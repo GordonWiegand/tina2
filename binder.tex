@@ -1,11 +1,11 @@
-\documentclass[13pt,a5paper,twoside, DIV=calc]{scrbook}
+\documentclass[fontsize=13pt,a5paper,twoside, DIV=calc]{scrbook}
 \usepackage[ngerman]{babel}
-%Schrift Quattrocento
 
 %\usepackage[heuristica,vvarbb,bigdelims]{newtxmath}
 \usepackage[T1]{fontenc}
-\usepackage[black]{merriweather}
-%\renewcommand*\oldstylenums[1]{\textosf{#1}}
+\usepackage{PTSerifCaption} 
+%\usepackage[black]{merriweather}
+
 %Erlaubt Einsatz von Farbe
 \usepackage[svgnames]{xcolor}
 \definecolor{farbe}{HTML}{766D20}
@@ -21,9 +21,8 @@
 \usepackage{scrpage2}
 \pagestyle{scrheadings} 
 %Kapitelüberschriften 
-%\addtokomafont{chapter}{\color{blue}\rmfamily\Huge\centering\itshape}
-\addtokomafont{chapter}{\Huge\merriweathersansblack}
 %Bilder einbinden
+\addtokomafont{chapter}{\Huge\color{farbe}\sffamily}
 \usepackage{graphicx}
 %Bilder auf ganze Seite ausdehnen
 \usepackage{afterpage}
@@ -39,6 +38,8 @@
 \addtokomafont{pagenumber}{\bfseries\color{farbe}}
 %Satzspiegelberechnung mit allen Parametern nochmals durchführen
 \KOMAoptions{DIV=calc}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %titelseite
@@ -47,7 +48,8 @@
 %\input{./kapitel/uhr}
 %\input{./kapitel/huhn}
 %\input{./kapitel/staub}
-\input{./kapitel/paula}
+\input{./kapitel/fangen}
+\input{./kapitel/wheterby}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Inhaltsverzeichnis
 \newpage
