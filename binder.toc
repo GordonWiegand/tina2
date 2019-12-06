@@ -1,3 +1,2 @@
 \babel@toc {ngerman}{}
 \contentsline {chapter}{Fangen}{1}% 
-\contentsline {chapter}{Wheterby Castle}{9}% 

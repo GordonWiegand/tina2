@@ -38,7 +38,11 @@
 \addtokomafont{pagenumber}{\bfseries\color{farbe}}
 %Satzspiegelberechnung mit allen Parametern nochmals durchführen
 \KOMAoptions{DIV=calc}
-
+%Rüschen über Seite
+\usepackage{pgfornament}
+\chead{\color{farbe}\pgfornament[width=\textwidth,color=farbe]{89}}
+%Umkreiste Nummern
+\usepackage{circledsteps}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
@@ -48,8 +52,9 @@
 %\input{./kapitel/uhr}
 %\input{./kapitel/huhn}
 %\input{./kapitel/staub}
-\input{./kapitel/fangen}
-\input{./kapitel/wheterby}
+%\input{./kapitel/fangen}
+%\input{./kapitel/wheterby}
+\input{./kapitel/acht}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Inhaltsverzeichnis
 \newpage
