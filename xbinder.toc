@@ -1,0 +1,5 @@
+\babel@toc {ngerman}{}
+\contentsline {chapter}{Fangen}{1}% 
+\contentsline {chapter}{Das X ist los}{9}% 
+\contentsline {chapter}{Wheterby Castle}{19}% 
+\contentsline {chapter}{Zahlen}{26}% 

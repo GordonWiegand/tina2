@@ -1,0 +1,72 @@
+\documentclass[fontsize=13pt,a5paper,twoside, DIV=calc]{scrbook}
+\usepackage[ngerman]{babel}
+\usepackage[no-math]{fontspec}
+\setmainfont{Merriweather}
+\setsansfont{Open Sans}
+\setmonofont{FreeMono}
+\newfontface\FontB{Noto Sans Hebrew}
+\newfontface\FontC{Noto Sans Tamil}
+\newfontface\FontD{Noto Sans Thai}
+\newfontface\FontE{Noto Sans Georgian}
+\newfontface\FontF{Noto Sans Devanagari}
+\newfontface\FontG{Noto Sans CJK JP}
+\newfontface\FontH{Noto Sans Arabic}
+\newfontface\FontI{Noto Sans Yi}
+
+ 
+%Erlaubt Einsatz von Farbe
+\usepackage[svgnames]{xcolor}
+\definecolor{farbe}{HTML}{766D20}
+%UTF 8
+\usepackage[utf8]{inputenc}
+%Schweizer Anführungszeichen
+\usepackage[german=swiss]{csquotes}
+%Ermöglicht Zierkapitälchen zum Anbsatzanfang
+\usepackage{lettrine}
+\input Kramer.fd
+\newfontface\FontJ{Kramer}
+\renewcommand{\LettrineFontHook}{\color{farbe}\relax\FontJ}
+%Um Seitenkopf zu manipulieren
+\usepackage{scrlayer-scrpage}
+\pagestyle{scrheadings} 
+%Kapitelüberschriften 
+%Bilder einbinden
+%%%\addtokomafont{chapter}{\Huge\color{farbe}\sffamily}
+\usepackage{graphicx}
+%Definition Rahmen: links dicker roter balken
+\usepackage{tikz} % used for the 'logo' und 
+%Abstand zw. Wörtern darf zwecks Blocksatzbildung in Ausnahmefällen bis 1em breit werden.
+\setlength{\emergencystretch}{1em}
+%Seitenzahlen fett
+\addtokomafont{pagenumber}{\bfseries\color{farbe}}
+%Satzspiegelberechnung mit allen Parametern nochmals durchführen
+\KOMAoptions{DIV=calc}
+%Rüschen über Seite
+\usepackage{pgfornament}
+\chead{\color{farbe}\pgfornament[width=\textwidth,color=farbe]{89}}
+%Umkreiste Nummern
+\usepackage{circledsteps}
+%Für kapitel Zahlen
+\usepackage{amsmath}
+\usepackage{hieroglf}
+%\usepackage{mathspec}
+%\setmathsfont(Digits,Latin,Greek)[Numbers={Lining,Proportional}]{Roboto Slab}
+\usepackage{mathspec}
+\setmathfont(Digits,Latin)[Scale=MatchLowercase]{Linux Biolinum O}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%titelseite
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Kapitel einfügen
+\input{./kapitel/fangen}
+\input{./kapitel/acht}
+\input{./kapitel/wheterby}
+\input{./kapitel/zahlen}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Inhaltsverzeichnis
+\newpage
+\pagestyle{empty}
+\tableofcontents
+
+\end{document}
