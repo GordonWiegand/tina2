@@ -1,3 +1,947 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.5 -0.5 735 403" width="735px" height="403px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" content="&lt;mxfile type=&quot;device&quot; version=&quot;12.3.9&quot; host=&quot;www.draw.io&quot; modified=&quot;2019-12-12T09:09:12.461Z&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763&quot; etag=&quot;sg2EmfmFjfCYhxUDlUh9&quot; pages=&quot;1&quot;&gt;&lt;diagram id=&quot;D7cOvNNzoiSybeUDTN7K&quot; name=&quot;Page-1&quot;&gt;7Vpbb9sgFP41kbaHTgZ8iR+btOs0adqkPuyZ2iRmJcazyZL21w9sHJvYaVordpSLoyhwgAN85+NwwBmh6WL9kOIk+sFDwkbQmqc0HKG7EYRAfqUgXOssgL6WvBQSF3iFQLV5pK9EV7S0dElDkhm6BOdM0MQUBjyOSSAMGU5TvjKrzTgzB5bgOWkIHgPMmtLfNBRRIR1Dr5J/I3QelT0DV89vgcvKeiZZhEO+qonQ/QhNU85FkVqsp4Qp8EroinZfd5RuBpaSWLyngfX9fhr8eXUC3/v5EM2TZ2HjG63lH2ZLPeGmWl0nEy8lKIzGMjXJRMqfN7D4UhKJBZNJIJMJSemCCJLK/BMOnp94TH5VsknCaSxy4ziTkXMnJXwplOLpxpKWFOrxkVSQdW04eooPhEt96Ysytjb0fCNSDXUbW9tAc85xdX5VmRSUsqhuTgNSmdCofgBheJkI285gCKPLRBgNx2G7E8JSsfTSCuRVRAV5THCgSlZyozBhxllSgDWjaxK2GmVGGZtyxtNcNbLy52DQAuCY2Fot2PYDrXsh5DUBtgckr3eZCIPhHPD4MhFucxI9IeyfuQP2zL0NeYP531Lt2UK7vbcNiW2308UJYesej7fdot7TwdaBX0ziQr9lR+sJ3HMPeH3viOA6Zw4usI9J3W4HihNCd3xM7rYdJlwm1Ky5RLeOqft3ycuCmyy/2LyVFaQl1lWhTM3V7yc5BTk8mbfaUuhzDoDKGr0FG5grhUg9s1mzj6q1nHuhoCgoxdky2RZ16Qfs7KY+gHpnSrGF3N3j209gySlhMrUgZknEmOenjTo3tQgzOo9lNpDa80OFYigNMLvVBQsahmzX0kj5Mg7VQjjgQWP7qgeNNw6lRvFN0FznODwAx9uOcwNwHJwSx3d38ybHlXe+UjynuGdQ3AHNyBk6PRG87TT9QYKDNoLbJ0Rg2JXA1tVLa6/smBSGzjtv3A5A4fKd4gejvCzCiUoGKc+yJ5zuD/cq4CpjlbEeasZ6M0d98nYCC8qVYW58q2FnWdXNH83emrx4Dhcu+v6Wo2laye/JSN2uP65GkgHPcEaCVyN1M1Kbv+vLSN3uYy7QSMgGe1cS6imugm0XO4eIq4qgozwKu1VahdOWDkx87xpbl1uct5cDfcXWsNv1k7nu9izSt5elNsuhlpPp8tpe+Y1bkCzfDbZDKbPV377ystqf59D9fw==&lt;/diagram&gt;&lt;/mxfile&gt;"><defs/><g><path fill="none" pointer-events="all" stroke="#000000" stroke-miterlimit="10" stroke-width="9" d="M 7 366 L 167 366"/><path fill="none" pointer-events="all" stroke="#000000" stroke-miterlimit="10" stroke-width="9" d="M 7 351 L 167 351"/><path fill="none" pointer-events="all" stroke="#000000" stroke-miterlimit="10" stroke-width="9" d="M 7 336 L 167 336"/><ellipse fill="#000000" pointer-events="all" stroke="#000000" stroke-width="9" cx="87" cy="306" rx="5" ry="5"/><path fill="none" pointer-events="all" stroke="#000000" stroke-miterlimit="10" stroke-width="9" d="M 12 236 L 172 236"/><path fill="none" pointer-events="all" stroke="#000000" stroke-miterlimit="10" stroke-width="9" d="M 12 221 L 172 221"/><path fill="none" pointer-events="all" stroke="#000000" stroke-miterlimit="10" stroke-width="9" d="M 12 206 L 172 206"/><ellipse fill="#000000" pointer-events="all" stroke="#000000" stroke-width="9" cx="42" cy="176" rx="5" ry="5"/><ellipse fill="#000000" pointer-events="all" stroke="#000000" stroke-width="9" cx="87" cy="176" rx="5" ry="5"/><ellipse fill="#000000" pointer-events="all" stroke="#000000" stroke-width="9" cx="132" cy="176" rx="5" ry="5"/><ellipse fill="#000000" pointer-events="all" stroke="#000000" stroke-width="9" cx="24.5" cy="101" rx="5" ry="5"/><ellipse fill="#000000" pointer-events="all" stroke="#000000" stroke-width="9" cx="69.5" cy="101" rx="5" ry="5"/><ellipse fill="#000000" pointer-events="all" stroke="#000000" stroke-width="9" cx="114.5" cy="101" rx="5" ry="5"/><ellipse fill="#000000" pointer-events="all" stroke="#000000" stroke-width="9" cx="159.5" cy="101" rx="5" ry="5"/><rect fill="none" pointer-events="all" stroke="none" x="207" y="183.5" width="270" height="20"/><g transform="translate(224.5 180.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" width="234" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="width: 235px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;"><font style="font-size: 20px">(5 + 5 + 5 + 3) x <font color="#3333ff">20</font><sup><font color="#3333ff">1</font> </sup>= 360</font></div></div></foreignObject><text font-family="Helvetica" font-size="12px" fill="#000000" text-anchor="middle" x="117" y="19">[Not supported by viewer]</text></switch></g><rect fill="none" pointer-events="all" stroke="none" x="214" y="311" width="250" height="20"/><g transform="translate(227.5 307.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" width="223" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="width: 224px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;"><font style="font-size: 20px">(5 + 5 + 5 + 1) x <font color="#3333ff">20</font><sup><font color="#3333ff">0</font> </sup>= 16</font></div></div></foreignObject><text font-family="Helvetica" font-size="12px" fill="#000000" text-anchor="middle" x="112" y="19">[Not supported by viewer]</text></switch></g><rect fill="none" pointer-events="all" stroke="none" x="324" y="56" width="160" height="20"/><g transform="translate(335.5 52.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" width="137" height="27"><div xmlns="http://www.w3.org/1999/xhtml" style="width: 138px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;"><font style="font-size: 21px">4 x <font color="#3333ff">20</font><sup><font color="#3333ff">2</font> </sup>= 1600</font></div></div></foreignObject><text font-family="Helvetica" font-size="12px" fill="#000000" text-anchor="middle" x="69" y="20">[Not supported by viewer]</text></switch></g><path fill="#f5f5f5" pointer-events="all" stroke="#666666" stroke-miterlimit="10" stroke-width="3" transform="rotate(-90 211 326)" d="M 166 316 L 166 336 M 256 316 L 256 336 M 166 326 L 256 326"/><path fill="#f5f5f5" pointer-events="all" stroke="#666666" stroke-miterlimit="10" stroke-width="3" transform="rotate(-90 211 196)" d="M 166 186 L 166 206 M 256 186 L 256 206 M 166 196 L 256 196"/><path fill="#f5f5f5" pointer-events="all" stroke="#666666" stroke-miterlimit="10" stroke-width="3" transform="rotate(-90 211 66)" d="M 166 56 L 166 76 M 256 56 L 256 76 M 166 66 L 256 66"/><path fill="#f5f5f5" pointer-events="all" stroke="#666666" stroke-miterlimit="10" stroke-width="3" transform="rotate(-90 483 196)" d="M 308 186 L 308 206 M 658 186 L 658 206 M 308 196 L 658 196"/><rect fill="none" pointer-events="all" stroke="none" x="484" y="186" width="250" height="20"/><g transform="translate(496.5 184.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" width="224" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="width: 225px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;"><div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;"><font style="font-size: 21px">1600 + 360 + 16 = 1976</font></div></div></foreignObject><text font-family="Helvetica" font-size="12px" fill="#000000" text-anchor="middle" x="112" y="18">&lt;font style="font-size: 21px"&gt;1600 + 360 + 16 = 1976&lt;/font&gt;</text></switch></g><rect fill="none" pointer-events="all" stroke="#000000" stroke-width="3" x="1" y="1" width="180" height="400" rx="27" ry="27"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="maya1976.svg"
+   inkscape:export-filename="/home/gordon/tina2/bilder/Maya1976.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="122.90718"
+     inkscape:cy="397.98818"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g2038"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2490"
+     inkscape:window-height="1376"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="149.40367,139.51469"
+       orientation="1,0"
+       id="guide2093"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       id="g2038"
+       transform="matrix(0.26458333,0,0,0.26458333,5.9383814,97.163985)">
+      <switch
+         id="switch2032"
+         transform="matrix(1.5019865,0,0,1.4988014,655.65182,359.82343)"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           width="224"
+           height="23">
+          <xhtml:div
+             style="width: 225px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 21px">1600 + 360 + 16 = 1976</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="148.29276"
+           y="-9.3133936"
+           id="text2030">
+          <tspan
+             id="tspan2082"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">1600 + 360 + 16 =</tspan>
+        </text>
+        <text
+           id="text2086"
+           y="16.400892"
+           x="110.43561"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2084">1600 + 360 + 16 = 1976</tspan>
+        </text>
+        <text
+           id="text2090"
+           y="149.25804"
+           x="-156.70724"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2088">(5 + 5 +5 + 1) x <tspan
+   id="tspan2094"
+   style="fill:#d40000">20</tspan>
+<tspan
+   id="tspan2092"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="-157.42152"
+           y="18.543755"
+           id="text2104">
+          <tspan
+             id="tspan2102"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">(5 + 5 +5 + 1) x <tspan
+   style="fill:#d40000"
+   id="tspan2098">20</tspan>
+<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000"
+   id="tspan2100">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:26.65967941px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66649199"
+           x="132.44286"
+           y="90.543015"
+           id="text2187"
+           transform="scale(0.99893914,1.001062)"><tspan
+             sodipodi:role="line"
+             id="tspan2185"
+             x="132.44286"
+             y="90.543015"
+             style="stroke-width:0.66649199">1976</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:62.70196152px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.56754911"
+           x="86.134987"
+           y="51.698723"
+           id="text2191"
+           transform="scale(0.99893913,1.001062)"><tspan
+             sodipodi:role="line"
+             id="tspan2189"
+             x="86.134987"
+             y="51.698723"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.70196152px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.56754911">1976</tspan></text>
+      </switch>
+      <path
+         id="path1968"
+         d="M 10.763209,588.81241 H 251.08104"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:13.50353813;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         id="path1970"
+         d="M 10.763209,566.33039 H 251.08104"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:13.50353813;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         id="path1972"
+         d="M 10.763209,543.84837 H 251.08104"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:13.50353813;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         id="ellipse1974"
+         cy="498.88431"
+         cx="130.92212"
+         pointer-events="all"
+         style="fill:#000000;stroke:#000000;stroke-width:13.50353813"
+         rx="7.5099325"
+         ry="7.4940071"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         id="path1976"
+         d="M 18.273141,393.96822 H 258.59098"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:13.50353813;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         id="path1978"
+         d="M 18.273141,371.4862 H 258.59098"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:13.50353813;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         id="path1980"
+         d="M 18.273141,349.00418 H 258.59098"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:13.50353813;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         id="ellipse1982"
+         cy="304.04013"
+         cx="63.332733"
+         pointer-events="all"
+         style="fill:#000000;stroke:#000000;stroke-width:13.50353813"
+         rx="7.5099325"
+         ry="7.4940071"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         id="ellipse1984"
+         cy="304.04013"
+         cx="130.92212"
+         pointer-events="all"
+         style="fill:#000000;stroke:#000000;stroke-width:13.50353813"
+         rx="7.5099325"
+         ry="7.4940071"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         id="ellipse1986"
+         cy="304.04013"
+         cx="198.51152"
+         pointer-events="all"
+         style="fill:#000000;stroke:#000000;stroke-width:13.50353813"
+         rx="7.5099325"
+         ry="7.4940071"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         id="ellipse1988"
+         cy="191.63002"
+         cx="37.047974"
+         pointer-events="all"
+         style="fill:#000000;stroke:#000000;stroke-width:13.50353813"
+         rx="7.5099325"
+         ry="7.4940071"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         id="ellipse1990"
+         cy="191.63002"
+         cx="104.63736"
+         pointer-events="all"
+         style="fill:#000000;stroke:#000000;stroke-width:13.50353813"
+         rx="7.5099325"
+         ry="7.4940071"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         id="ellipse1992"
+         cy="191.63002"
+         cx="172.22676"
+         pointer-events="all"
+         style="fill:#000000;stroke:#000000;stroke-width:13.50353813"
+         rx="7.5099325"
+         ry="7.4940071"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         id="ellipse1994"
+         cy="191.63002"
+         cx="239.81615"
+         pointer-events="all"
+         style="fill:#000000;stroke:#000000;stroke-width:13.50353813"
+         rx="7.5099325"
+         ry="7.4940071"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         id="rect1996"
+         height="29.976028"
+         width="405.53635"
+         y="315.28116"
+         x="311.16049"
+         pointer-events="all"
+         style="fill:none;stroke:none;stroke-width:1.50039315"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         id="rect2004"
+         height="29.976028"
+         width="375.49661"
+         y="506.37833"
+         x="321.67441"
+         pointer-events="all"
+         style="fill:none;stroke:none;stroke-width:1.50039315"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         id="rect2012"
+         height="29.976028"
+         width="240.31784"
+         y="124.18396"
+         x="486.89291"
+         pointer-events="all"
+         style="fill:none;stroke:none;stroke-width:1.50039315"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <g
+         id="g2018"
+         transform="translate(335.5,52.5)" />
+      <path
+         id="path2020"
+         d="m 302.14858,596.30641 h 30.03973 M 302.14858,461.41428 h 30.03973 M 317.16845,596.30641 V 461.41428"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:#f5f5f5;stroke:#d40000;stroke-width:4.50117922;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         id="path2022"
+         d="m 302.14858,401.99751 h 30.03973 M 302.14858,267.10538 h 30.03973 M 317.16845,401.99751 V 267.10538"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:#f5f5f5;stroke:#d40000;stroke-width:4.50117922;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         id="path2024"
+         d="m 302.14858,207.68858 h 30.03973 M 302.14858,72.796444 h 30.03973 M 317.16845,207.68858 V 72.796444"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:#f5f5f5;stroke:#d40000;stroke-width:4.50117922;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         id="path2026"
+         d="m 695.6452,596.30642 h 30.03973 M 695.6452,71.72591 h 30.03973 M 710.66507,596.30642 V 71.72591"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         inkscape:connector-curvature="0"
+         style="fill:#f5f5f5;stroke:#666666;stroke-width:4.50117922;stroke-miterlimit:10"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         id="rect2028"
+         height="29.976028"
+         width="375.49661"
+         y="319.02814"
+         x="727.21075"
+         pointer-events="all"
+         style="fill:none;stroke:none;stroke-width:1.50039315"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         id="rect2036"
+         ry="40.46764"
+         rx="40.553635"
+         height="599.52057"
+         width="270.35757"
+         y="41.749882"
+         x="1.7512897"
+         pointer-events="all"
+         style="fill:none;stroke:#000000;stroke-width:4.50117922"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <switch
+         transform="matrix(1.5019865,0,0,1.4988014,369.32341,-82.543571)"
+         id="switch2143"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <foreignObject
+           height="23"
+           width="224"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="width: 225px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 21px">1600 + 360 + 16 = 1976</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text2121"
+           y="414.25839"
+           x="87.435616"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2119">(5+5+5+1) x <tspan
+   style="fill:#d40000"
+   id="tspan2147">20</tspan>
+<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000"
+   id="tspan2145">0</tspan>
+
+
+= 16</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="110.43561"
+           y="16.400892"
+           id="text2125">
+          <tspan
+             id="tspan2123"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">1600 + 360 + 16 = 1976</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="-156.70724"
+           y="149.25804"
+           id="text2133">
+          <tspan
+             id="tspan2131"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">(5 + 5 +5 + 1) x <tspan
+   style="fill:#d40000"
+   id="tspan2127">20</tspan>
+<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000"
+   id="tspan2129">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           id="text2141"
+           y="18.543755"
+           x="-157.42152"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2139">(5 + 5 +5 + 1) x <tspan
+   id="tspan2135"
+   style="fill:#d40000">20</tspan>
+<tspan
+   id="tspan2137"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="94.721329"
+           y="143.54375"
+           id="text2157">
+          <tspan
+             id="tspan2155"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">(5+5+5+1)x<tspan
+   id="tspan2151"
+   style="fill:#d40000">20</tspan>
+<tspan
+   id="tspan2153"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="94.007042"
+           y="284.25839"
+           id="text2165">
+          <tspan
+             id="tspan2163"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">(5+5+5+3) x <tspan
+   id="tspan2159"
+   style="fill:#d40000">20<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="tspan2167">1</tspan>
+</tspan>
+
+
+= 360</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="142.1499"
+           y="157.15808"
+           id="text2177">
+          <tspan
+             id="tspan2175"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">4 x <tspan
+   id="tspan2171"
+   style="fill:#d40000">20<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="tspan2179">3</tspan>
+</tspan>
+
+
+= 1600</tspan>
+        </text>
+      </switch>
+      <switch
+         id="switch2067"
+         transform="matrix(1.5019865,0,0,1.4988014,367.46555,-274.47257)"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           width="224"
+           height="23">
+          <xhtml:div
+             style="width: 225px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 21px">1600 + 360 + 16 = 1976</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="93.488518"
+           y="412.67053"
+           id="text2021">
+          <tspan
+             id="tspan2019"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">(5+5+5+3) x <tspan
+   id="tspan2015"
+   style="fill:#d40000">20<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11875153px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="tspan2069">1</tspan>
+</tspan>
+
+
+=360</tspan>
+        </text>
+        <text
+           id="text2025"
+           y="16.400892"
+           x="110.43561"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2023">1600 + 360 + 16 = 1976</tspan>
+        </text>
+        <text
+           id="text2033"
+           y="149.25804"
+           x="-156.70724"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2031">(5 + 5 +5 + 1) x <tspan
+   id="tspan2027"
+   style="fill:#d40000">20</tspan>
+<tspan
+   id="tspan2029"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="-157.42152"
+           y="18.543755"
+           id="text2041">
+          <tspan
+             id="tspan2039"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">(5 + 5 +5 + 1) x <tspan
+   style="fill:#d40000"
+   id="tspan2035">20</tspan>
+<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000"
+   id="tspan2037">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           id="text2049"
+           y="143.54375"
+           x="94.721329"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2047">(5+5+5+1)x<tspan
+   style="fill:#d40000"
+   id="tspan2043">20</tspan>
+<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000"
+   id="tspan2045">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           id="text2057"
+           y="284.25839"
+           x="94.007042"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2055">(5+5+5+3) x <tspan
+   style="fill:#d40000"
+   id="tspan2053">20<tspan
+   id="tspan2051"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">1</tspan>
+</tspan>
+
+
+= 360</tspan>
+        </text>
+        <text
+           id="text2065"
+           y="157.15808"
+           x="142.1499"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2063">4 x <tspan
+   style="fill:#d40000"
+   id="tspan2061">20<tspan
+   id="tspan2059"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">3</tspan>
+</tspan>
+
+
+= 1600</tspan>
+        </text>
+        <text
+           id="text2079"
+           y="414.25839"
+           x="87.435616"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2077">(5+5+5+3) x <tspan
+   style="fill:#d40000"
+   id="tspan2075">20<tspan
+   id="tspan2073"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11875153px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">1</tspan>
+</tspan>
+
+
+=360</tspan>
+        </text>
+        <text
+           id="text2087"
+           y="285.21307"
+           x="136.75787"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2085">4 x <tspan
+   style="fill:#d40000"
+   id="tspan2083">20<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11875153px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="tspan2089">3</tspan>
+</tspan>
+
+
+=360</tspan>
+        </text>
+      </switch>
+      <switch
+         transform="matrix(1.5019865,0,0,1.4988014,674.84472,472.96349)"
+         id="switch2128"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <foreignObject
+           height="23"
+           width="224"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           pointer-events="all"
+           style="overflow:visible;">
+          <xhtml:div
+             style="width: 225px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 21px">1600 + 360 + 16 = 1976</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           id="text2097"
+           y="-10.025647"
+           x="133.03482"
+           font-size="12px"
+           style="font-size:79.90710449px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:6.65892506">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.90710449px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:6.65892506"
+             id="tspan2095">1976</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="110.43561"
+           y="16.400892"
+           id="text2101">
+          <tspan
+             id="tspan2099"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">1600 + 360 + 16 = 1976</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="-156.70724"
+           y="149.25804"
+           id="text2109">
+          <tspan
+             id="tspan2107"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">(5 + 5 +5 + 1) x <tspan
+   style="fill:#d40000"
+   id="tspan2103">20</tspan>
+<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000"
+   id="tspan2105">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           id="text2117"
+           y="18.543755"
+           x="-157.42152"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan2115">(5 + 5 +5 + 1) x <tspan
+   id="tspan2111"
+   style="fill:#d40000">20</tspan>
+<tspan
+   id="tspan2113"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000">0</tspan>
+
+
+=16</tspan>
+        </text>
+        <text
+           transform="scale(0.99893914,1.001062)"
+           id="text2122"
+           y="90.543015"
+           x="132.44286"
+           style="font-style:normal;font-weight:normal;font-size:26.65967941px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66649199"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.66649199"
+             y="90.543015"
+             x="132.44286"
+             id="tspan2120"
+             sodipodi:role="line">1976</tspan></text>
+        <text
+           transform="scale(0.99893913,1.001062)"
+           id="text2126"
+           y="51.698723"
+           x="86.134987"
+           style="font-style:normal;font-weight:normal;font-size:62.70196152px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.56754911"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.70196152px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.56754911"
+             y="51.698723"
+             x="86.134987"
+             id="tspan2124"
+             sodipodi:role="line">1976</tspan></text>
+      </switch>
+      <switch
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         id="switch986"
+         transform="matrix(1.5019865,0,0,1.4988014,376.39448,-475.49292)">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           width="224"
+           height="23">
+          <xhtml:div
+             style="width: 225px; text-align: center; color: rgb(0, 0, 0); line-height: 1.2; font-family: Helvetica; font-size: 12px; vertical-align: top; display: inline-block; white-space: nowrap; overflow-wrap: normal;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <xhtml:font
+                 style="font-size: 21px">1600 + 360 + 16 = 1976</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="140.69853"
+           y="419.33383"
+           id="text940">
+          <tspan
+             id="tspan938"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">4 x <tspan
+   id="tspan934"
+   style="fill:#d40000">20<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11875153px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="tspan988">3</tspan>
+</tspan>
+
+= 1600</tspan>
+        </text>
+        <text
+           id="text944"
+           y="16.400892"
+           x="110.43561"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan942">1600 + 360 + 16 = 1976</tspan>
+        </text>
+        <text
+           id="text952"
+           y="149.25804"
+           x="-156.70724"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan950">(5 + 5 +5 + 1) x <tspan
+   id="tspan946"
+   style="fill:#d40000">20</tspan>
+<tspan
+   id="tspan948"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000">0</tspan>
+
+=16</tspan>
+        </text>
+        <text
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425"
+           font-size="12px"
+           x="-157.42152"
+           y="18.543755"
+           id="text960">
+          <tspan
+             id="tspan958"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425">(5 + 5 +5 + 1) x <tspan
+   style="fill:#d40000"
+   id="tspan954">20</tspan>
+<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000"
+   id="tspan956">0</tspan>
+
+=16</tspan>
+        </text>
+        <text
+           id="text968"
+           y="143.54375"
+           x="94.721329"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan966">(5+5+5+1)x<tspan
+   style="fill:#d40000"
+   id="tspan962">20</tspan>
+<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#d40000"
+   id="tspan964">0</tspan>
+
+=16</tspan>
+        </text>
+        <text
+           id="text976"
+           y="284.25839"
+           x="94.007042"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan974">(5+5+5+3) x <tspan
+   style="fill:#d40000"
+   id="tspan972">20<tspan
+   id="tspan970"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">1</tspan>
+</tspan>
+
+= 360</tspan>
+        </text>
+        <text
+           id="text984"
+           y="157.15808"
+           x="142.1499"
+           font-size="12px"
+           style="font-size:25.11833191px;font-family:Helvetica;text-anchor:middle;fill:#000000;stroke-width:2.09319425">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.11833191px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2.09319425"
+             id="tspan982">4 x <tspan
+   style="fill:#d40000"
+   id="tspan980">20<tspan
+   id="tspan978"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1186676px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">3</tspan>
+</tspan>
+
+= 1600</tspan>
+        </text>
+      </switch>
+    </g>
+  </g>
+</svg>
