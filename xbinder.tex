@@ -1,8 +1,17 @@
 \documentclass[fontsize=13pt,a5paper,twoside, DIV=calc]{scrbook}
 \usepackage[ngerman]{babel}
 \usepackage[no-math]{fontspec}
-\setmainfont{Merriweather}
-\setsansfont{Open Sans}
+\usepackage{microtype}
+\setmainfont[
+ BoldFont={Merriweather Bold}, 
+ ItalicFont={Merriweather Italic Italic},
+ BoldItalicFont={Merriweather Italic Bold Italic}
+ ]{Merriweather}
+\setsansfont[
+ BoldFont={Merriweather Sans Bold}, 
+ ItalicFont={Merriweather Sans Italic},
+ BoldItalicFont={Merriweather Sans Bold Italic}
+ ]{Merriweather Sans}
 \setmonofont{FreeMono}
 \newfontface\FontB{Noto Sans Hebrew}
 \newfontface\FontC{Noto Sans Tamil}
@@ -18,7 +27,7 @@
 \usepackage[svgnames]{xcolor}
 \definecolor{farbe}{HTML}{766D20}
 %UTF 8
-\usepackage[utf8]{inputenc}
+%\usepackage[utf8]{inputenc}
 %Schweizer Anführungszeichen
 \usepackage[german=swiss]{csquotes}
 %Ermöglicht Zierkapitälchen zum Anbsatzanfang

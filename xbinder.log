@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  13 DEC 2019 05:57
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  13 DEC 2019 20:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -354,21 +354,31 @@ LaTeX Info: Redefining \upshape on input line 4062.
 LaTeX Info: Redefining \em on input line 4092.
 LaTeX Info: Redefining \emph on input line 4117.
 ))
+(/home/gordon/texmf/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks15
+\MT@count=\count193
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen139
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count194
 
-Package fontspec Info: Could not resolve font "Merriweather/BI" (it probably
-(fontspec)             doesn't exist).
+(/home/gordon/texmf/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2019/11/18 v2.7d Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 258.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
 
-
-Package fontspec Info: Could not resolve font "Merriweather/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Merriweather/I" (it probably
-(fontspec)             doesn't exist).
-
+(/home/gordon/texmf/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
 
 Package fontspec Info: Font family 'Merriweather(0)' created for font
-(fontspec)             'Merriweather' with options [Ligatures=TeX].
+(fontspec)             'Merriweather' with options
+(fontspec)             [Ligatures=TeX,BoldFont={Merriweather
+(fontspec)             Bold},ItalicFont={Merriweather Italic
+(fontspec)             Italic},BoldItalicFont={Merriweather Italic Bold
+(fontspec)             Italic}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
@@ -377,29 +387,46 @@ Package fontspec Info: Font family 'Merriweather(0)' created for font
 (fontspec)             <->"Merriweather/OT:script=latn;language=DFLT;mapping=te
 x-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Merriweather
+(fontspec)             Bold/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Merriweather
+(fontspec)             Italic
+(fontspec)             Italic/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"Merriweather Italic Bold
+(fontspec)             Italic/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Info: Redefining \rmfamily on input line 5.
+LaTeX Info: Redefining \rmfamily on input line 10.
 
-Package fontspec Info: Font family 'OpenSans(0)' created for font 'Open Sans'
-(fontspec)             with options [Ligatures=TeX].
+Package fontspec Info: Font family 'MerriweatherSans(0)' created for font
+(fontspec)             'Merriweather Sans' with options
+(fontspec)             [Ligatures=TeX,BoldFont={Merriweather Sans
+(fontspec)             Bold},ItalicFont={Merriweather Sans
+(fontspec)             Italic},BoldItalicFont={Merriweather Sans Bold
+(fontspec)             Italic}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Open
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Merriweather
 (fontspec)             Sans/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Open
-(fontspec)             Sans/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Merriweather Sans
+(fontspec)             Bold/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Open
-(fontspec)             Sans/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Merriweather
+(fontspec)             Sans
+(fontspec)             Italic/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Open
-(fontspec)             Sans/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"Merriweather Sans Bold
+(fontspec)             Italic/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Info: Redefining \sffamily on input line 6.
+LaTeX Info: Redefining \sffamily on input line 15.
 
 Package fontspec Info: Font family 'FreeMono(0)' created for font 'FreeMono'
 (fontspec)             with options
@@ -442,7 +469,7 @@ Space].
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-LaTeX Info: Redefining \ttfamily on input line 7.
+LaTeX Info: Redefining \ttfamily on input line 16.
 
 Package fontspec Info: Font family 'NotoSansHebrew(0)' created for font 'Noto
 (fontspec)             Sans Hebrew' with options
@@ -562,28 +589,20 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 (/home/gordon/texmf/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
-(/home/gordon/texmf/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
-
-
-Package inputenc Warning: inputenc package ignored with utf8 based engines.
-
-) (/home/gordon/texmf/tex/latex/csquotes/csquotes.sty
+(/home/gordon/texmf/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2019-12-02 v5.2i context-sensitive quotations (JAW)
 
 (/home/gordon/texmf/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count193
+\etb@tempcnta=\count195
 )
-\csq@reset=\count194
-\csq@gtype=\count195
-\csq@glevel=\count196
-\csq@qlevel=\count197
-\csq@maxlvl=\count198
-\csq@tshold=\count199
-\csq@ltx@everypar=\toks17
+\csq@reset=\count196
+\csq@gtype=\count197
+\csq@glevel=\count198
+\csq@qlevel=\count199
+\csq@maxlvl=\count266
+\csq@tshold=\count267
+\csq@ltx@everypar=\toks16
 
 (/home/gordon/texmf/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2019-12-02 v5.2i csquotes generic definitions (JAW)
@@ -602,34 +621,34 @@ File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
 (/home/gordon/texmf/tex/generic/minifp/minifp.sty
 Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 -based programing language.
-\MFP@loopctr=\count266
+\MFP@loopctr=\count268
 )
-\c@DefaultLines=\count267
-\c@DefaultDepth=\count268
-\DefaultFindent=\dimen139
-\DefaultNindent=\dimen140
-\DefaultSlope=\dimen141
-\DiscardVskip=\dimen142
+\c@DefaultLines=\count269
+\c@DefaultDepth=\count270
+\DefaultFindent=\dimen140
+\DefaultNindent=\dimen141
+\DefaultSlope=\dimen142
+\DiscardVskip=\dimen143
 \L@lbox=\box48
 \L@tbox=\box49
-\c@L@lines=\count269
-\c@L@depth=\count270
-\L@Pindent=\dimen143
-\L@Findent=\dimen144
-\L@Nindent=\dimen145
-\L@lraise=\dimen146
-\L@first=\dimen147
-\L@next=\dimen148
-\L@slope=\dimen149
-\L@height=\dimen150
-\L@novskip=\dimen151
-\L@target@ht=\dimen152
-\L@target@dp=\dimen153
-\L@target@tht=\dimen154
-\LettrineWidth=\dimen155
-\LettrineHeight=\dimen156
-\LettrineDepth=\dimen157
-\Llist@everypar=\toks18
+\c@L@lines=\count271
+\c@L@depth=\count272
+\L@Pindent=\dimen144
+\L@Findent=\dimen145
+\L@Nindent=\dimen146
+\L@lraise=\dimen147
+\L@first=\dimen148
+\L@next=\dimen149
+\L@slope=\dimen150
+\L@height=\dimen151
+\L@novskip=\dimen152
+\L@target@ht=\dimen153
+\L@target@dp=\dimen154
+\L@target@tht=\dimen155
+\LettrineWidth=\dimen156
+\LettrineHeight=\dimen157
+\LettrineDepth=\dimen158
+\Llist@everypar=\toks17
 
 Loading lettrine.cfg
 (/home/gordon/texmf/tex/latex/lettrine/lettrine.cfg))
@@ -681,16 +700,16 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
 )
-\Gin@req@height=\dimen158
-\Gin@req@width=\dimen159
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
 )
 (/home/gordon/texmf/tex/latex/pgf/frontendlayer/tikz.sty
 (/home/gordon/texmf/tex/latex/pgf/basiclayer/pgf.sty
 (/home/gordon/texmf/tex/latex/pgf/utilities/pgfrcs.sty
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen160
-\pgfutil@tempdimb=\dimen161
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
 
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -711,32 +730,32 @@ Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
 Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
 
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks20
-\pgfkeys@temptoks=\toks21
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
 
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks22
+\pgfkeys@tmptoks=\toks21
 ))
-\pgf@x=\dimen162
-\pgf@y=\dimen163
-\pgf@xa=\dimen164
-\pgf@ya=\dimen165
-\pgf@xb=\dimen166
-\pgf@yb=\dimen167
-\pgf@xc=\dimen168
-\pgf@yc=\dimen169
-\pgf@xd=\dimen170
-\pgf@yd=\dimen171
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\pgf@xd=\dimen171
+\pgf@yd=\dimen172
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count271
-\c@pgf@countb=\count272
-\c@pgf@countc=\count273
-\c@pgf@countd=\count274
-\t@pgf@toka=\toks23
-\t@pgf@tokb=\toks24
-\t@pgf@tokc=\toks25
-\pgf@sys@id@count=\count275
+\c@pgf@counta=\count273
+\c@pgf@countb=\count274
+\c@pgf@countc=\count275
+\c@pgf@countd=\count276
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count277
 
 (/home/gordon/texmf/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
@@ -752,12 +771,12 @@ File: pgfsys-dvipdfmx.def 2019/08/03 v3.1.4b (3.1.4b)
 (/home/gordon/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
 )
-\pgfsys@objnum=\count276
+\pgfsys@objnum=\count278
 )))
 (/home/gordon/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfsyssoftpath@smallbuffer@items=\count277
-\pgfsyssoftpath@bigbuffer@items=\count278
+\pgfsyssoftpath@smallbuffer@items=\count279
+\pgfsyssoftpath@bigbuffer@items=\count280
 )
 (/home/gordon/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
@@ -769,12 +788,12 @@ Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen172
-\pgfmath@count=\count279
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count281
 \pgfmath@box=\box51
-\pgfmath@toks=\toks26
-\pgfmath@stack@operand=\toks27
-\pgfmath@stack@operation=\toks28
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
 )
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
@@ -786,52 +805,52 @@ x) (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.co
 de.tex))) (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count280
+\c@pgfmathroundto@lastzeros=\count282
 ))
 (/home/gordon/texmf/tex/generic/pgf/math/pgfint.code.tex)
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@picminx=\dimen173
-\pgf@picmaxx=\dimen174
-\pgf@picminy=\dimen175
-\pgf@picmaxy=\dimen176
-\pgf@pathminx=\dimen177
-\pgf@pathmaxx=\dimen178
-\pgf@pathminy=\dimen179
-\pgf@pathmaxy=\dimen180
-\pgf@xx=\dimen181
-\pgf@xy=\dimen182
-\pgf@yx=\dimen183
-\pgf@yy=\dimen184
-\pgf@zx=\dimen185
-\pgf@zy=\dimen186
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@path@lastx=\dimen187
-\pgf@path@lasty=\dimen188
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@shorten@end@additional=\dimen189
-\pgf@shorten@start@additional=\dimen190
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \pgfpic=\box52
 \pgf@hbox=\box53
 \pgf@layerbox@main=\box54
-\pgf@picture@serial@count=\count281
+\pgf@picture@serial@count=\count283
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgflinewidth=\dimen191
+\pgflinewidth=\dimen192
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@pt@x=\dimen192
-\pgf@pt@y=\dimen193
-\pgf@pt@temp=\dimen194
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
 ) (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 )
@@ -843,13 +862,13 @@ File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfarrowsep=\dimen195
+\pgfarrowsep=\dimen196
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@max=\dimen196
-\pgf@sys@shading@range@num=\count282
-\pgf@shadingcount=\count283
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count284
+\pgf@shadingcount=\count285
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
@@ -879,8 +898,8 @@ File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 )
 (/home/gordon/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@nodesepstart=\dimen197
-\pgf@nodesepend=\dimen198
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
 )
 (/home/gordon/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
@@ -894,43 +913,43 @@ Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
 Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
 
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen199
-\pgffor@skip=\dimen256
-\pgffor@stack=\toks29
-\pgffor@toks=\toks30
+\pgffor@iter=\dimen256
+\pgffor@skip=\dimen257
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
 ))
 (/home/gordon/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
 
 (/home/gordon/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@plot@mark@count=\count284
-\pgfplotmarksize=\dimen257
+\pgf@plot@mark@count=\count286
+\pgfplotmarksize=\dimen258
 )
-\tikz@lastx=\dimen258
-\tikz@lasty=\dimen259
-\tikz@lastxsaved=\dimen260
-\tikz@lastysaved=\dimen261
-\tikz@lastmovetox=\dimen262
-\tikz@lastmovetoy=\dimen263
-\tikzleveldistance=\dimen264
-\tikzsiblingdistance=\dimen265
+\tikz@lastx=\dimen259
+\tikz@lasty=\dimen260
+\tikz@lastxsaved=\dimen261
+\tikz@lastysaved=\dimen262
+\tikz@lastmovetox=\dimen263
+\tikz@lastmovetoy=\dimen264
+\tikzleveldistance=\dimen265
+\tikzsiblingdistance=\dimen266
 \tikz@figbox=\box57
 \tikz@figbox@bg=\box58
 \tikz@tempbox=\box59
 \tikz@tempbox@bg=\box60
-\tikztreelevel=\count285
-\tikznumberofchildren=\count286
-\tikznumberofcurrentchild=\count287
-\tikz@fig@count=\count288
+\tikztreelevel=\count287
+\tikznumberofchildren=\count288
+\tikznumberofcurrentchild=\count289
+\tikz@fig@count=\count290
 
 (/home/gordon/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfmatrixcurrentrow=\count289
-\pgfmatrixcurrentcolumn=\count290
-\pgf@matrix@numberofcolumns=\count291
+\pgfmatrixcurrentrow=\count291
+\pgfmatrixcurrentcolumn=\count292
+\pgf@matrix@numberofcolumns=\count293
 )
-\tikz@expandcount=\count292
+\tikz@expandcount=\count294
 
 (/home/gordon/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytop
 aths.code.tex
@@ -959,12 +978,12 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 13.0pt
 (typearea)              \footskip       = 54.59984pt
 (typearea)              \baselineskip   = 15.59996pt
-(typearea)              on input line 43.
+(typearea)              on input line 52.
 (/home/gordon/texmf/tex/latex/pgfornament/pgfornament.sty
 (/home/gordon/texmf/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks31
-\pgfopts@list@add@b@toks=\toks32
+\pgfopts@list@add@a@toks=\toks30
+\pgfopts@list@add@b@toks=\toks31
 )
 Package: pgfornament 2016/03/05 v0.21 vector ornaments
 
@@ -984,10 +1003,10 @@ Package pict2e Info: Driver file for pict2e: p2e-xetex.def on input line 121.
 (/home/gordon/texmf/tex/latex/pict2e/p2e-xetex.def
 File: p2e-xetex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 )
-\pIIe@GRAPH=\toks33
-\@arclen=\dimen266
-\@arcrad=\dimen267
-\@tempdimd=\dimen268
+\pIIe@GRAPH=\toks32
+\@arclen=\dimen267
+\@arcrad=\dimen268
+\@tempdimd=\dimen269
 )
 (/home/gordon/texmf/tex/latex/oberdiek/picture.sty
 Package: picture 2016/05/16 v1.4 Dimens for picture macros (HO)
@@ -998,7 +1017,7 @@ Package picture Info: Calculation method: etex.
 \csteps@YLength=\skip65
 \csteps@YDepth=\skip66
 \csteps@tmplen=\skip67
-\c@cstepcnt=\count293
+\c@cstepcnt=\count295
 )
 (/home/gordon/texmf/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2019/11/16 v2.17d AMS math features
@@ -1010,51 +1029,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/home/gordon/texmf/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks34
-\ex@=\dimen269
+\@emptytoks=\toks33
+\ex@=\dimen270
 ))
 (/home/gordon/texmf/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen270
+\pmbraise@=\dimen271
 )
 (/home/gordon/texmf/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count294
+\inf@bad=\count296
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count295
-\leftroot@=\count296
+\uproot@=\count297
+\leftroot@=\count298
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count297
-\DOTSCASE@=\count298
+\classnum@=\count299
+\DOTSCASE@=\count300
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
 \Mathstrutbox@=\box62
 \strutbox@=\box63
-\big@size=\dimen271
+\big@size=\dimen272
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count299
-\c@MaxMatrixCols=\count300
+\macc@depth=\count301
+\c@MaxMatrixCols=\count302
 \dotsspace@=\muskip16
-\c@parentequation=\count301
-\dspbrk@lvl=\count302
-\tag@help=\toks35
-\row@=\count303
-\column@=\count304
-\maxfields@=\count305
-\andhelp@=\toks36
-\eqnshift@=\dimen272
-\alignsep@=\dimen273
-\tagshift@=\dimen274
-\tagwidth@=\dimen275
-\totwidth@=\dimen276
-\lineht@=\dimen277
-\@envbody=\toks37
+\c@parentequation=\count303
+\dspbrk@lvl=\count304
+\tag@help=\toks34
+\row@=\count305
+\column@=\count306
+\maxfields@=\count307
+\andhelp@=\toks35
+\eqnshift@=\dimen273
+\alignsep@=\dimen274
+\tagshift@=\dimen275
+\tagwidth@=\dimen276
+\totwidth@=\dimen277
+\lineht@=\dimen278
+\@envbody=\toks36
 \multlinegap=\skip69
 \multlinetaggap=\skip70
-\mathdisplay@stack=\toks38
+\mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2858.
 LaTeX Info: Redefining \] on input line 2859.
 )
@@ -1066,7 +1085,7 @@ Package: oands 2000/08/19 v1.0 package for OandS fonts
 )
 \c@rthm=\skip71
 \c@rtbox=\box64
-\c@rtht=\dimen278
+\c@rtht=\dimen279
 )
 (/home/gordon/texmf/tex/xelatex/mathspec/mathspec.sty
 Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
@@ -1083,15 +1102,15 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/home/gordon/texmf/tex/generic/xkeyval/xkeyval.tex
 (/home/gordon/texmf/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks39
-\XKV@tempa@toks=\toks40
+\XKV@toks=\toks38
+\XKV@tempa@toks=\toks39
 )
-\XKV@depth=\count306
+\XKV@depth=\count308
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\c@eu@=\count307
-\c@eu@i=\count308
-\c@mkern=\count309
+\c@eu@=\count309
+\c@eu@i=\count310
+\c@mkern=\count311
 )
 
 Package fontspec Info: Linux Biolinum O scale = 1.206521988747273.
@@ -1154,7 +1173,7 @@ Package fontspec Info: Font family 'LinuxBiolinumO(0)' created for font 'Linux
 
 \symDigits:m:n=\mathgroup4
 LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 15.68486pt on input line 55.
+(Font)              scaled to size 15.68486pt on input line 64.
 
 Package fontspec Info: Linux Biolinum O scale = 1.206521988747273.
 
@@ -1167,24 +1186,38 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
  (./xbinder.aux)
 \openout1 = `xbinder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Info: Redefining \microtypecontext on input line 67.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Merriweather' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
 ABD: EveryShipout initializing macros (./kapitel/fangen.tex
 File: ./bilder/fangen.png Graphic file (type bmp)
 <./bilder/fangen.png>
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `MerriweatherSans' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
  [1
 
 ]
@@ -1192,29 +1225,344 @@ File: ./bilder/fangen.png Graphic file (type bmp)
 LaTeX Font Warning: Font shape `TU/Merriweather(0)/m/sc' undefined
 (Font)              using `TU/Merriweather(0)/m/n' instead on input line 12.
 
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Kramer' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `/' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `-' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbackslash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbraceleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbraceright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textless ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textgreater ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/13'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `/' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `-' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbackslash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbraceleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbraceright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textless ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textgreater ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/48.01865'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `/' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `-' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbackslash ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbraceleft ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbraceright ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textless ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textgreater ' is missing
+(microtype)             in font `TU/Kramer(0)/m/n/64.11034'.
+(microtype)             Ignoring protrusion settings for this character.
 Package lettrine.sty Info: Targeted height = 38.41492pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 47.76219pt (T) loversize=.25;
 (lettrine.sty)             reported on input line 12.
+
+Underfull \hbox (badness 1137) in paragraph at lines 12--13
+\TU/Merriweather(0)/m/sc/13 Erklärung. Am meisten befriedigten Tobias die
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 12--13
+\TU/Merriweather(0)/m/sc/13 bogen eigentlich ist, war er verblüfft, dass nie
+ []
+
 
 Underfull \hbox (badness 1320) in paragraph at lines 15--16
 []\TU/Merriweather(0)/m/sc/13 «   Tobias, die Sonne scheint und du sitzt seit
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 15--16
-\TU/Merriweather(0)/m/sc/13 das Meer und Amerika finden? Durchs Mikro-
+Underfull \hbox (badness 1817) in paragraph at lines 15--16
+\TU/Merriweather(0)/m/sc/13 Amerika finden? Durchs Mikroskop sehen und
  []
 
-
-LaTeX Font Warning: Font shape `TU/Merriweather(0)/m/sl' undefined
-(Font)              using `TU/Merriweather(0)/m/n' instead on input line 16.
-
+LaTeX Font Info:    Font shape `TU/Merriweather(0)/m/sl' in size <13> not avail
+able
+(Font)              Font shape `TU/Merriweather(0)/m/it' tried instead on input
+ line 16.
 LaTeX Font Info:    Calculating math sizes for size <13> on input line 16.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
 (Font)              size <12> substituted on input line 16.
 
+(/home/gordon/texmf/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
 (Font)              size <6> substituted on input line 16.
@@ -1239,6 +1587,10 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <13> not available
 (Font)              size <12> substituted on input line 16.
 
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxBiolinumO' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
 (Font)              scaled to size 10.97934pt on input line 16.
 LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
@@ -1249,29 +1601,24 @@ LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
 (Font)              scaled to size 11.77263pt on input line 16.
 LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
 (Font)              scaled to size 8.40906pt on input line 16.
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf)
-
-LaTeX Font Warning: Font shape `TU/Merriweather(0)/bx/n' undefined
-(Font)              using `TU/Merriweather(0)/m/n' instead on input line 16.
-
-[2]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [2]
 Underfull \hbox (badness 1275) in paragraph at lines 21--22
-\TU/Merriweather(0)/m/sl/13 digen Diskussionen und Belehrungen vielleicht
+\TU/Merriweather(0)/m/sc/13 digen Diskussionen und Belehrungen vielleicht
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [3]
-Underfull \hbox (badness 1087) in paragraph at lines 35--36
-\TU/Merriweather(0)/bx/n/13 son kann wiederum nur jemanden fangen, der
+Underfull \hbox (badness 1137) in paragraph at lines 35--36
+\TU/Merriweather(0)/m/sc/13 son kann wiederum nur jemanden fangen, der
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [4]
-Underfull \hbox (badness 1253) in paragraph at lines 41--42
-\TU/Merriweather(0)/bx/n/13 seine Mutter geschlagen. Sein triumphierender
+Underfull \hbox (badness 1331) in paragraph at lines 41--42
+\TU/Merriweather(0)/m/sc/13 seine Mutter geschlagen. Sein triumphierender
  []
 
 
 Underfull \hbox (badness 1831) in paragraph at lines 43--44
-\TU/Merriweather(0)/bx/n/13 ner schmunzelnden Mutter, «  die Wissenschaft
+\TU/Merriweather(0)/m/sc/13 ner schmunzelnden Mutter, «  die Wissenschaft
  []
 
 
@@ -1280,34 +1627,39 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [5]
 Underfull \hbox (badness 1048) in paragraph at lines 47--48
-[]\TU/Merriweather(0)/bx/n/13 «  Und, hast du deine Theorie aufgegeben? Es
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 55--56
-[]\TU/Merriweather(0)/bx/n/13 «   Den schnellsten Spieler von mir aus, nicht
+[]\TU/Merriweather(0)/m/sc/13 «  Und, hast du deine Theorie aufgegeben? Es
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [6]
 Overfull \hbox (8.38138pt too wide) in paragraph at lines 58--59
-[]\TU/Merriweather(0)/bx/n/13 «   Dort gibt es alleine beim Um-die-Wette-Laufen
+[]\TU/Merriweather(0)/m/sc/13 «   Dort gibt es alleine beim Um-die-Wette-Laufen
 
  []
 
 
-Overfull \hbox (10.90166pt too wide) in paragraph at lines 58--59
-\TU/Merriweather(0)/bx/n/13 viele verschiedene Disziplinen: 100m, 200m, 400m,
+Overfull \hbox (8.36665pt too wide) in paragraph at lines 58--59
+\TU/Merriweather(0)/m/sc/13 viele verschiedene Disziplinen: 100m, 200m, 400m,
  []
 
 
-Overfull \hbox (22.14261pt too wide) in paragraph at lines 58--59
-\TU/Merriweather(0)/bx/n/13 800m, 1500m, 10000m und Marathon», «  42.195km»,
+Overfull \hbox (19.9716pt too wide) in paragraph at lines 58--59
+\TU/Merriweather(0)/m/sc/13 800m, 1500m, 10000m und Marathon», «  42.195km»,
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 60--61
+\TU/Merriweather(0)/m/sc/13 Fehler liegen. Natürlich, alle Spieler haben un-
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 62--63
+\TU/Merriweather(0)/m/sc/13 Sachen Gedanken zu machen, nennt man Tak-
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [7]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
 Underfull \hbox (badness 1122) in paragraph at lines 64--65
-\TU/Merriweather(0)/bx/n/13 das Thema nachdenken. Das machte er gerade
+\TU/Merriweather(0)/m/sc/13 das Thema nachdenken. Das machte er gerade
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [8])
@@ -1321,7 +1673,12 @@ Package lettrine.sty Info: Targeted height = 38.41492pt
 (lettrine.sty)             reported on input line 12.
 
 Underfull \hbox (badness 3536) in paragraph at lines 16--17
-\TU/Merriweather(0)/bx/n/13 so spannende Eltern? Die machten irgendwas
+\TU/Merriweather(0)/m/sc/13 so spannende Eltern? Die machten irgendwas
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 16--17
+\TU/Merriweather(0)/m/sc/13 «  Ich wollte sowieso keines.» Stimmte aber gar
  []
 
 
@@ -1329,20 +1686,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [10]
-Underfull \hbox (badness 1460) in paragraph at lines 28--29
-[]\TU/Merriweather(0)/bx/n/13 Alle kicherten und Frau Zahl nickte zustim-
+Underfull \hbox (badness 2401) in paragraph at lines 28--29
+[]\TU/Merriweather(0)/m/sc/13 Alle kicherten und Frau Zahl nickte zustim-
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [11]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [12]
-Overfull \hbox (19.40541pt too wide) in paragraph at lines 46--47
-\TU/Merriweather(0)/bx/n/13 danken und ein ganz kleines bisschen seiner Schwes-
+Overfull \hbox (15.32341pt too wide) in paragraph at lines 46--47
+\TU/Merriweather(0)/m/sc/13 danken und ein ganz kleines bisschen seiner Schwes-
 
  []
 
 
 Underfull \hbox (badness 2088) in paragraph at lines 46--47
-\TU/Merriweather(0)/bx/n/13 ter, die dort arbeitet. Wir treffen uns morgen
+\TU/Merriweather(0)/m/sc/13 ter, die dort arbeitet. Wir treffen uns morgen
  []
 
 
@@ -1350,63 +1707,39 @@ Underfull \vbox (badness 1028) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [13]
-
-LaTeX Font Warning: Font shape `TU/Merriweather(0)/m/it' undefined
-(Font)              using `TU/Merriweather(0)/m/n' instead on input line 54.
-
-
-Underfull \hbox (badness 3884) in paragraph at lines 54--55
-\TU/Merriweather(0)/bx/n/13 bereitet. Natürlich hatten sie den Nachmittag
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 54--55
-\TU/Merriweather(0)/bx/n/13 zusammen verbracht, aber bevor sie anfangen
- []
-
-
-Overfull \hbox (3.01852pt too wide) in paragraph at lines 54--55
-\TU/Merriweather(0)/bx/n/13 de. Eine Revanche führte zur nächsten bis es Abend
- []
-
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [14]
 Underfull \hbox (badness 1199) in paragraph at lines 62--63
-\TU/Merriweather(0)/bx/n/13 kommen, wo die [] waren, dem Highlight des
+\TU/Merriweather(0)/m/sc/13 kommen, wo die [] waren, dem Highlight des
  []
 
 
 Underfull \hbox (badness 1546) in paragraph at lines 66--67
-[]\TU/Merriweather(0)/bx/n/13 «  Was machen wir jetzt?» Beide trauten sich
+[]\TU/Merriweather(0)/m/sc/13 «  Was machen wir jetzt?» Beide trauten sich
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 68--69
-[]\TU/Merriweather(0)/bx/n/13 «   Ablenken, wir müssen es von den anderen
+Underfull \hbox (badness 2772) in paragraph at lines 68--69
+\TU/Merriweather(0)/m/sc/13 scheuchen.», antwortete [], wusste aber auch
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [15]
-Underfull \hbox (badness 1286) in paragraph at lines 76--77
-\TU/Merriweather(0)/m/it/13 Reihen messerscharfer Zähne und fixierte sei-
- []
-
-
 Underfull \vbox (badness 6252) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [16]
 Underfull \hbox (badness 1112) in paragraph at lines 88--89
-[]\TU/Merriweather(0)/m/it/13 «  Ich habe das [] nur betäubt und hole euch
+[]\TU/Merriweather(0)/m/sc/13 «  Ich habe das [] nur betäubt und hole euch
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [17]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
 Underfull \hbox (badness 2245) in paragraph at lines 100--101
-\TU/Merriweather(0)/m/it/13 tragte sie, zwei Zoomitarbeiterinnen-Ausweise
+\TU/Merriweather(0)/m/sc/13 tragte sie, zwei Zoomitarbeiterinnen-Ausweise
  []
 
 
 Underfull \hbox (badness 1237) in paragraph at lines 100--101
-\TU/Merriweather(0)/m/it/13 kleine Belohnung selbstverständlich. Vor allem
+\TU/Merriweather(0)/m/sc/13 kleine Belohnung selbstverständlich. Vor allem
  []
 
 
@@ -1424,326 +1757,1289 @@ Package lettrine.sty Info: Targeted height = 38.41492pt
 (lettrine.sty)             Lettrine height = 48.01862pt (D) loversize=.25;
 (lettrine.sty)             reported on input line 11.
 
-Underfull \hbox (badness 1571) in paragraph at lines 11--12
-\TU/Merriweather(0)/m/it/13 Rythmus vor, verbieten jeden Gedanken. Tris-
+Underfull \hbox (badness 1033) in paragraph at lines 11--12
+\TU/Merriweather(0)/m/sc/13 te für Lady Cantacuziono in London ein Stadt-
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 13--14
-\TU/Merriweather(0)/m/it/13 sinnig wurden oder ganz verschwunden sind,
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 15--16
-\TU/Merriweather(0)/m/it/13 nicht wirklich, aber Grabsteine für ertrunkene
- []
-
-
-Underfull \hbox (badness 1867) in paragraph at lines 15--16
-\TU/Merriweather(0)/m/it/13 der Steilküste. Möwen schreien. Wenn ich das
+Overfull \hbox (4.66647pt too wide) in paragraph at lines 13--14
+\TU/Merriweather(0)/m/sc/13 sinnig wurden oder ganz verschwunden sind, über-
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [21]
-Underfull \hbox (badness 1701) in paragraph at lines 17--18
-\TU/Merriweather(0)/m/it/13 mand. «   He», rufe ich. Also stosse ich die Tür
+Underfull \hbox (badness 1052) in paragraph at lines 17--18
+\TU/Merriweather(0)/m/sc/13 hend, verwelkt. Auf mein Klopfen reagiert nie-
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 17--18
+\TU/Merriweather(0)/m/sc/13 bereits hier sein. Ein grosser Saal, ein grosser
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 17--18
+\TU/Merriweather(0)/m/sc/13 trangend, Zepter zur Schau stellend, Herschaf-
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [22]
-! Undefined control sequence.
-l.22 ...rlauben.\hfill {\color{farbe}\decofourleft
-                                                  }\newpage
-? 
-
-Underfull \hbox (badness 1014) in paragraph at lines 22--22
-\TU/Merriweather(0)/m/it/13 Essens eingeschlafen sein, warum erinnere ich
+Underfull \hbox (badness 1014) in paragraph at lines 22--23
+\TU/Merriweather(0)/m/sc/13 Essens eingeschlafen sein, warum erinnere ich
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [23]
-Underfull \hbox (badness 1762) in paragraph at lines 24--25
-[]\TU/Merriweather(0)/m/it/13 «  Willkommen auf Whetherby Castle. Ich bin
+
+Underfull \hbox (badness 1270) in paragraph at lines 26--27
+\TU/Merriweather(0)/m/sc/13 erschrocken von meiner Unhöflichkeit, verbeu-
  []
 
 
 Underfull \hbox (badness 2173) in paragraph at lines 26--27
-\TU/Merriweather(0)/m/it/13 eingeschlafen zu sein, mit einer angedeuteten
+\TU/Merriweather(0)/m/sc/13 eingeschlafen zu sein, mit einer angedeuteten
  []
 
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [23]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [24]
-Underfull \hbox (badness 1210) in paragraph at lines 32--33
-\TU/Merriweather(0)/m/it/13 Fingern. Ich entschuldige mich stotternd, ver-
- []
-
-
 Underfull \hbox (badness 1270) in paragraph at lines 34--35
-[]\TU/Merriweather(0)/m/it/13 Ich stütze mich auf den Tisch, der Schweiss
+[]\TU/Merriweather(0)/m/sc/13 Ich stütze mich auf den Tisch, der Schweiss
  []
 
 
 Underfull \hbox (badness 1342) in paragraph at lines 34--35
-\TU/Merriweather(0)/m/it/13 und kalt. Einsamkeit, Verlassensein, Leere. Als
+\TU/Merriweather(0)/m/sc/13 und kalt. Einsamkeit, Verlassensein, Leere. Als
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [25]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [26])
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [25])
 (./kapitel/zahlen.tex
 File: ./bilder/Maya1976.png Graphic file (type bmp)
 <./bilder/Maya1976.png>
- [27]
+ [26]
 Package lettrine.sty Info: Targeted height = 38.41492pt
 (lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 47.76219pt (W) loversize=.25;
-(lettrine.sty)             reported on input line 11.
+(lettrine.sty)             Lettrine height = 48.01862pt (A) loversize=.25;
+(lettrine.sty)             reported on input line 12.
 
-Overfull \hbox (13.53754pt too wide) in paragraph at lines 11--12
-[][] \TU/Merriweather(0)/m/it/13 Menschen benutzen unterschiedliche Spra-
+Underfull \hbox (badness 2762) in paragraph at lines 12--13
+[][] \TU/Merriweather(0)/m/sc/13 wir die Geschichte «   Acht» in diesem
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 11--12
-\TU/Merriweather(0)/m/it/13 chen. Aber es gibt Sprachen, die überall
+Underfull \hbox (badness 1838) in paragraph at lines 14--15
+\TU/Merriweather(0)/m/sc/13 schreibt oder darstellt. Da haben verschiedene
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 11--12
-\TU/Merriweather(0)/m/it/13 zu übertragen. Das ist nebenbei bemerkt nicht
+Underfull \hbox (badness 1199) in paragraph at lines 14--15
+\TU/Merriweather(0)/m/sc/13 Kulturen verschiedene Lösungen gefunden, die
  []
 
 
-Overfull \hbox (10.60442pt too wide) in paragraph at lines 13--14
-\TU/Merriweather(0)/m/it/13 sie sonst vielleicht mit Lichtblitzen statt mit Sch
-all-
- []
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [28]
-LaTeX Font Info:    Calculating math sizes for size <10.83347> on input line 17
-.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.58339> not available
-(Font)              size <8> substituted on input line 17.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.41673> not available
-(Font)              size <5> substituted on input line 17.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.58339> not available
-(Font)              size <8> substituted on input line 17.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.41673> not available
-(Font)              size <5> substituted on input line 17.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.58339> not available
-(Font)              size <8> substituted on input line 17.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.41673> not available
-(Font)              size <5> substituted on input line 17.
-
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 13.07086pt on input line 17.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 9.14957pt on input line 17.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 6.53543pt on input line 17.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 14.01526pt on input line 17.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 9.81064pt on input line 17.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 7.00763pt on input line 17.
-Missing character: There is no ǃ in font cmmi10!
-
-Underfull \hbox (badness 2253) in paragraph at lines 17--17
- \TU/Merriweather(0)/m/it/10.83347 stabenkombinationen wie im Deutschen sch um 
-alle
+Underfull \hbox (badness 1014) in paragraph at lines 16--17
+[]\TU/Merriweather(0)/m/sc/13 Aber vorher nochmals zurück zu den Zahlen.
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 17--18
-\TU/Merriweather(0)/m/it/13 le Dinge könntest du mit deinen Steinen bau-
+Underfull \hbox (badness 1112) in paragraph at lines 16--17
+\TU/Merriweather(0)/m/sc/13 du wörtlich verstehen. Wenn es Ausserirdische
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [29]
-Underfull \hbox (badness 1308) in paragraph at lines 21--24
-\TU/Merriweather(0)/m/it/13 Dazu addieren wir den zweiten Term, den wir
- []
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [30]
-Missing character: There is no ’ in font cmr12!
-
-Underfull \hbox (badness 1168) in paragraph at lines 27--28
-\TU/Merriweather(0)/m/it/13 wächst unglaublich schnell, das bedeutet, dass
- []
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [31]
-Missing character: There is no ’ in font cmr10!
-
-Underfull \hbox (badness 1406) in paragraph at lines 35--36
-\TU/Merriweather(0)/m/it/13 fe der Mathematik beschreiben und verstehen.
- []
-
-
-Underfull \hbox (badness 2310) in paragraph at lines 35--36
-\TU/Merriweather(0)/m/it/13 Ausserirdischen über Lego unterhalten. Würde
- []
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 35--36
-\TU/Merriweather(0)/m/it/13 logischen Aufbau der Ziffern, dazu komme ich
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 37--38
-[]\TU/Merriweather(0)/m/it/13 Die Unterschiede zwischen den Kulturen be-
- []
-
-
-Underfull \hbox (badness 1831) in paragraph at lines 37--38
-\TU/Merriweather(0)/m/it/13 den. Damit meine ich nicht den reinen Wort-
- []
-
-
-Underfull \hbox (badness 2012) in paragraph at lines 37--38
-\TU/Merriweather(0)/m/it/13 Zahlen geschrieben oder benannt werden. Das
- []
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [32]
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [33]
-Underfull \hbox (badness 1383) in paragraph at lines 46--47
-\TU/Merriweather(0)/m/it/13 dem kleinsten Zeichen nach der 0 dieses vor-
- []
-
-
-Underfull \hbox (badness 1024) in paragraph at lines 46--47
-\TU/Merriweather(0)/m/it/13 verwenden. Nach $[] \OML/cmm/m/it/12 ; []; []; [] $
- \TU/Merriweather(0)/m/it/13 kommt der Sprung
- []
-
-
-Underfull \hbox (badness 2005) in paragraph at lines 48--49
-\TU/Merriweather(0)/m/it/13 und fängst da an hochzuzählen: $[] \OML/cmm/m/it/12
- ; [][]; [][]$ \TU/Merriweather(0)/m/it/13 und
- []
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [34]
-Underfull \hbox (badness 1371) in paragraph at lines 50--51
-\TU/Merriweather(0)/m/it/13 du nämlich Zahlen schreiben willst (oder eher
- []
-
-LaTeX Font Info:    Calculating math sizes for size <11.86258> on input line 56
-.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 14.31253pt on input line 56.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 10.0187pt on input line 56.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 7.15627pt on input line 56.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 15.34662pt on input line 56.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 10.74257pt on input line 56.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 7.67331pt on input line 56.
-Missing character: There is no 0 in font Noto Sans Thai Regular/OT:script=DFLT;
-language=DFLT;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [35]
-Underfull \hbox (badness 1132) in paragraph at lines 69--70
-[]\TU/Merriweather(0)/m/it/13 Die Mathematik hat sich seit Erfindung die-
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [27]
+LaTeX Font Info:    Calculating math sizes for size <10.83347> on input line 20
+.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 20.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 20.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.58339> not available
+(Font)              size <8> substituted on input line 20.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.41673> not available
+(Font)              size <5> substituted on input line 20.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.58339> not available
+(Font)              size <8> substituted on input line 20.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.41673> not available
+(Font)              size <5> substituted on input line 20.
+
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
+(Font)              scaled to size 13.07086pt on input line 20.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
+(Font)              scaled to size 9.14957pt on input line 20.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
+(Font)              scaled to size 6.53543pt on input line 20.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
+(Font)              scaled to size 14.01526pt on input line 20.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
+(Font)              scaled to size 9.81064pt on input line 20.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
+(Font)              scaled to size 7.00763pt on input line 20.
+
+Overfull \hbox (3.92853pt too wide) in paragraph at lines 20--21
+[]\TU/Merriweather(0)/m/sc/13 Ein Beispiel für Mathematik. Die folgenden Über-
+ []
+
+Missing character: There is no ǃ in font Merriweather Regular/OT:script=latn;la
+nguage=DFLT;mapping=tex-text;!
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [28]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [29]
+Missing character: There is no ’ in font cmr12!
+
+Underfull \hbox (badness 1281) in paragraph at lines 30--31
+\TU/Merriweather(0)/m/sc/13 wächst unglaublich schnell, das bedeutet, dass
+ []
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [30]
+Missing character: There is no ’ in font cmr10!
+
+Underfull \hbox (badness 2035) in paragraph at lines 38--39
+\TU/Merriweather(0)/m/sc/13 fe der Mathematik beschreiben und verstehen.
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 69--70
-\TU/Merriweather(0)/m/it/13 tionalen Zahlen. Hinzu kamen negative Zahlen
+Underfull \hbox (badness 2495) in paragraph at lines 38--39
+\TU/Merriweather(0)/m/sc/13 Ausserirdischen über Lego unterhalten. Würde
  []
 
 
+Underfull \hbox (badness 1043) in paragraph at lines 38--39
+\TU/Merriweather(0)/m/sc/13 logischen Aufbau der Ziffern, dazu komme ich
+ []
+
+
+Overfull \hbox (25.67798pt too wide) in paragraph at lines 40--41
+\OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 =$\TU/Merriweather(0)/m/it/13 nûm \TU/Merriwe
+ather(0)/m/sc/13 auf $\OT1/cmr/m/n/12 !$\TU/Merriweather(0)/m/sc/13 Xóõ. Wie ma
+n das Zeichen $\OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 =$ \TU/Merriweather(0)/m/sc/13
+ wohl auspricht?
+ []
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [31]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [32]
+Underfull \hbox (badness 1067) in paragraph at lines 46--48
+\TU/Merriweather(0)/m/sc/13 men (weil das sonst nicht cool wäre, habe ich
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 49--50
+[]\TU/Merriweather(0)/m/sc/13 Und wenn du dann wieder ans Ende gekom-
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 49--50
+\TU/Merriweather(0)/m/sc/13 und fängst da an hochzuzählen: $[] \OML/cmm/m/it/12
+ ; [][]; [][]$ \TU/Merriweather(0)/m/sc/13 und
+ []
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [33]
+Underfull \hbox (badness 1430) in paragraph at lines 51--52
+\TU/Merriweather(0)/m/sc/13 du nämlich Zahlen schreiben willst (oder eher
+ []
+
+LaTeX Font Info:    Calculating math sizes for size <11.86258> on input line 57
+.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
+(Font)              scaled to size 14.31253pt on input line 57.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
+(Font)              scaled to size 10.0187pt on input line 57.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
+(Font)              scaled to size 7.15627pt on input line 57.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
+(Font)              scaled to size 15.34662pt on input line 57.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
+(Font)              scaled to size 10.74257pt on input line 57.
+LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
+(Font)              scaled to size 7.67331pt on input line 57.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansTamil' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NotoSansTamil(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansThai' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `.' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `,' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `:' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `!' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\%' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textendash ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textemdash ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteleft ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteright ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblleft ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblright ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbackslash ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceleft ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceright ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textless ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textgreater ' is missing
+(microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Missing character: There is no 0 in font Noto Sans Thai Regular/OT:script=DFLT;
+language=DFLT;!
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansGeorgian' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `.' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `,' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `:' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `!' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\%' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textendash ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textemdash ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteleft ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteright ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblleft ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblright ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbackslash ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceleft ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceright ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textless ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textgreater ' is missing
+(microtype)             in font `\TU/NotoSansGeorgian(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansDevanagari' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NotoSansDevanagari(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansCJKJP' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansHebrew' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `.' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `,' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `:' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `!' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\%' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textendash ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textemdash ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteleft ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteright ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblleft ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblright ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbackslash ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceleft ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceright ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textless ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textgreater ' is missing
+(microtype)             in font `\TU/NotoSansHebrew(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansArabic' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\%' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textendash ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textemdash ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteleft ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteright ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblleft ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblright ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbackslash ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceleft ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceright ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textless ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textgreater ' is missing
+(microtype)             in font `\TU/NotoSansArabic(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NotoSansYi' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `.' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `,' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `:' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `!' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\%' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `-' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textendash ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textemdash ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteleft ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteright ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblleft ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblright ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbackslash ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceleft ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceright ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textless ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textgreater ' is missing
+(microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Underfull \hbox (badness 1460) in paragraph at lines 69--70
+\TU/Merriweather(0)/m/sc/13 Minus gekennzeichnet) und dann so verrückte
+ []
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [34]
 Underfull \hbox (badness 1648) in paragraph at lines 71--72
-\TU/Merriweather(0)/m/it/13 übrigens leicht variieren. Warum zum Beispiel
+\TU/Merriweather(0)/m/sc/13 übrigens leicht variieren. Warum zum Beispiel
  []
 
+
+Underfull \hbox (badness 1237) in paragraph at lines 71--72
+\TU/Merriweather(0)/m/sc/13 als Kind damit beginnt. Aber das ist nicht im-
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 71--72
+\TU/Merriweather(0)/m/sc/13 Computers ganz vereinfacht vorstellen als vie-
+ []
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [35]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [36]
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [37]
 File: ./bilder/Maya1976.png Graphic file (type bmp)
 <./bilder/Maya1976.png>
 
-Overfull \hbox (13.0pt too wide) in paragraph at lines 89--90
+Overfull \hbox (13.0pt too wide) in paragraph at lines 88--89
 [][] 
  []
 
-
-Underfull \hbox (badness 1424) in paragraph at lines 91--92
-\TU/Merriweather(0)/m/it/13 so oft wiederholen musst, bis es dem gewün-
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [37]
+Underfull \hbox (badness 3098) in paragraph at lines 94--96
+\TU/Merriweather(0)/m/sc/13 zum Beispiel Ägäische Zahlzeichen überliefert.
  []
 
-
-Underfull \hbox (badness 1314) in paragraph at lines 91--92
-\TU/Merriweather(0)/m/it/13 Ägypten hat man daher gewisse Anzahlen von
- []
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [38]
-LaTeX Font Info:    Try loading font information for OT1+pmhg on input line 93.
-
+LaTeX Font Info:    Try loading font information for OT1+pmhg on input line 99.
 
 (/home/gordon/texmf/tex/latex/archaic/ot1pmhg.fd
 File: ot1pmhg.fd 2000/08/19 v1.0 PM Hieroglyphic font definitions
 )
-Underfull \vbox (badness 8000) has occurred while \output is active []
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pmhg' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [39]
+Package microtype Warning: Font `OT1/pmhg/m/n/13' does not specify its
+(microtype)                \fontdimen 6 (width of an `em')! Therefore,
+(microtype)                protrusion will not work with this font.
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 99--100
+\TU/Merriweather(0)/m/sc/13 1’000’000 \OT1/pmhg/m/n/13 7\TU/Merriweather(0)/m/s
+c/13 . Cäsar und die anderen im alten
+ []
+
+
+Underfull \vbox (badness 2368) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [38]
+Underfull \hbox (badness 1043) in paragraph at lines 101--102
+\TU/Merriweather(0)/m/sc/13 siebzehn setzt sich auch sprachlich zusammen
+ []
+
 Missing character: There is no ’ in font cmr12!
 
-Underfull \hbox (badness 2277) in paragraph at lines 97--98
-\TU/Merriweather(0)/m/it/13 Zum Beispiel wird die $[][][][][][]$ als einhundert
--
+Underfull \hbox (badness 1642) in paragraph at lines 103--104
+\TU/Merriweather(0)/m/it/13 und dreissig tausend sieben hundert und zwei und
  []
 
 
-Overfull \hbox (2.25153pt too wide) in paragraph at lines 99--100
-\TU/Merriweather(0)/m/it/13 Französisch. Zum Beispiel heisst 97 quatre-vingt-
+Underfull \hbox (badness 2828) in paragraph at lines 103--104
+\TU/Merriweather(0)/m/it/13 achtzig \TU/Merriweather(0)/m/sc/13 ausgesprochen. 
+Sehr blöd. Wir nennen
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 99--100
-\TU/Merriweather(0)/m/it/13 zig (plus) Zehn (plus) Sieben. Ernsthaft? Noch
+Overfull \hbox (4.31421pt too wide) in paragraph at lines 105--106
+\TU/Merriweather(0)/m/it/13 minus ein Halb) mal Zwanzig \TU/Merriweather(0)/m/s
+c/13 bedeutet. Schnell nach-
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 99--100
-\TU/Merriweather(0)/m/it/13 verrückter wird es im Dänischen. Dort scheint
+Underfull \hbox (badness 1990) in paragraph at lines 105--106
+\TU/Merriweather(0)/m/sc/13 spielt im Hintergrund solange mein Hirn sich
+ []
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [39]
+Underfull \hbox (badness 1946) in paragraph at lines 107--108
+\TU/Merriweather(0)/m/sc/13 im Dänischen, wie auch im Französischen die
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 99--100
-\TU/Merriweather(0)/m/it/13 irgendetwas gründlich schief gelaufen zu sein.
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [40]
-Underfull \hbox (badness 1946) in paragraph at lines 101--102
-\TU/Merriweather(0)/m/it/13 im Dänischen, wie auch im Französischen die
+Underfull \hbox (badness 2547) in paragraph at lines 111--112
+[]\TU/Merriweather(0)/m/sc/13 Unser Körper bestimmt unser Zahlensystem.
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 105--106
-[]\TU/Merriweather(0)/m/it/13 Unser Körper bestimmt unser Zahlensystem.
+Underfull \hbox (badness 4872) in paragraph at lines 111--112
+\TU/Merriweather(0)/m/sc/13 weise «  Frauenrechnen» oder «   Arithmetik aus
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [41]
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [42]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [43])
 [44
 
 
-] (./xbinder.toc)
+]
+Package tocbasic Info: character protrusion at toc deactivated on input line 79
+.
+ (./xbinder.toc)
 \tf@toc=\write4
 \openout4 = `xbinder.toc'.
 
@@ -1757,12 +3053,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 31537 strings out of 492909
- 685838 string characters out of 6135046
- 922033 words of memory out of 5000000
- 34996 multiletter control sequences out of 15000+600000
- 540881 words of font info for 136 fonts, out of 8000000 for 9000
+ 32926 strings out of 492909
+ 714142 string characters out of 6135046
+ 974897 words of memory out of 5000000
+ 36357 multiletter control sequences out of 15000+600000
+ 540889 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,21n,120p,10089b,875s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 76i,21n,120p,10089b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on xbinder.pdf (45 pages).
