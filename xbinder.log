@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  14 DEC 2019 16:51
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  21 DEC 2019 07:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -566,6 +566,198 @@ Package fontspec Info: Font family 'NotoSansYi(0)' created for font 'Noto Sans
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
+(/home/gordon/texmf/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
+
+(/home/gordon/texmf/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count195
+)
+\c@DefaultLines=\count196
+\c@DefaultDepth=\count197
+\DefaultFindent=\dimen140
+\DefaultNindent=\dimen141
+\DefaultSlope=\dimen142
+\DiscardVskip=\dimen143
+\L@lbox=\box48
+\L@tbox=\box49
+\c@L@lines=\count198
+\c@L@depth=\count199
+\L@Pindent=\dimen144
+\L@Findent=\dimen145
+\L@Nindent=\dimen146
+\L@lraise=\dimen147
+\L@first=\dimen148
+\L@next=\dimen149
+\L@slope=\dimen150
+\L@height=\dimen151
+\L@novskip=\dimen152
+\L@target@ht=\dimen153
+\L@target@dp=\dimen154
+\L@target@tht=\dimen155
+\LettrineWidth=\dimen156
+\LettrineHeight=\dimen157
+\LettrineDepth=\dimen158
+\Llist@everypar=\toks16
+
+Loading lettrine.cfg
+(/home/gordon/texmf/tex/latex/lettrine/lettrine.cfg))
+(/home/gordon/texmf/tex/latex/initials/Kramer.fd
+File: Kramer.fd 2003/04/02 Font definition file for U/Kramer
+)
+
+Package fontspec Info: Font family 'Kramer(0)' created for font 'Kramer' with
+(fontspec)             options [BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Kramer"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+(/home/gordon/texmf/tex/latex/archaic/hieroglf.sty
+Package: hieroglf 2015/06/02 v1.4 package for poor mans hieroglyphs
+
+(/home/gordon/texmf/tex/latex/archaic/oands.sty
+Package: oands 2000/08/19 v1.0 package for OandS fonts
+)
+\c@rthm=\skip64
+\c@rtbox=\box50
+\c@rtht=\dimen159
+)
+(/home/gordon/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip65
+
+For additional information on amsmath, use the `?' option.
+(/home/gordon/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/gordon/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen160
+))
+(/home/gordon/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+)
+(/home/gordon/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count271
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks18
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks19
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks20
+\multlinegap=\skip66
+\multlinetaggap=\skip67
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+(/home/gordon/texmf/tex/xelatex/mathspec/mathspec.sty
+Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
+r XeLaTeX)
+
+(/home/gordon/texmf/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count278
+)
+(/home/gordon/texmf/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/home/gordon/texmf/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+(/home/gordon/texmf/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/home/gordon/texmf/tex/generic/xkeyval/xkeyval.tex
+(/home/gordon/texmf/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@eu@=\count280
+\c@eu@i=\count281
+\c@mkern=\count282
+)
+
+Package fontspec Info: Merriweather scale = 1.
+
+
+Package fontspec Info: Could not resolve font "Merriweather/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Merriweather scale = 1.
+
+
+Package fontspec Info: Merriweather/B scale = 0.9982013705050096.
+
+
+Package fontspec Info: Merriweather/BI scale = 0.9982013705050096.
+
+
+Package fontspec Info: Font family 'Merriweather(1)' created for font
+(fontspec)             'Merriweather' with options [Scale=MatchLowercase].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"Merriweather/OT:script=latn;language=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[0.9982013705050096]"Merriweather/B/OT:script=latn;
+language=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[0.9982013705050096]"Merriweather/BI/OT:script=latn
+;language=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+\symDigits:m:n=\mathgroup4
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 13.0pt on input line 34.
+
+Package fontspec Info: Merriweather scale = 1.
+
+\symLatin:m:n=\mathgroup5
+\symLatin:m:it=\mathgroup6
+
 (/home/gordon/texmf/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -591,18 +783,13 @@ File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
 (/home/gordon/texmf/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2019-12-02 v5.2i context-sensitive quotations (JAW)
-
-(/home/gordon/texmf/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count195
-)
-\csq@reset=\count196
-\csq@gtype=\count197
-\csq@glevel=\count198
-\csq@qlevel=\count199
-\csq@maxlvl=\count266
-\csq@tshold=\count267
-\csq@ltx@everypar=\toks16
+\csq@reset=\count283
+\csq@gtype=\count284
+\csq@glevel=\count285
+\csq@qlevel=\count286
+\csq@maxlvl=\count287
+\csq@tshold=\count288
+\csq@ltx@everypar=\toks24
 
 (/home/gordon/texmf/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2019-12-02 v5.2i csquotes generic definitions (JAW)
@@ -615,57 +802,6 @@ File: csquotes.cfg
 )
 Package csquotes Info: Redefining alias 'german' -> 'german/swiss'.
 )
-(/home/gordon/texmf/tex/latex/lettrine/lettrine.sty
-File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
-
-(/home/gordon/texmf/tex/generic/minifp/minifp.sty
-Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
--based programing language.
-\MFP@loopctr=\count268
-)
-\c@DefaultLines=\count269
-\c@DefaultDepth=\count270
-\DefaultFindent=\dimen140
-\DefaultNindent=\dimen141
-\DefaultSlope=\dimen142
-\DiscardVskip=\dimen143
-\L@lbox=\box48
-\L@tbox=\box49
-\c@L@lines=\count271
-\c@L@depth=\count272
-\L@Pindent=\dimen144
-\L@Findent=\dimen145
-\L@Nindent=\dimen146
-\L@lraise=\dimen147
-\L@first=\dimen148
-\L@next=\dimen149
-\L@slope=\dimen150
-\L@height=\dimen151
-\L@novskip=\dimen152
-\L@target@ht=\dimen153
-\L@target@dp=\dimen154
-\L@target@tht=\dimen155
-\LettrineWidth=\dimen156
-\LettrineHeight=\dimen157
-\LettrineDepth=\dimen158
-\Llist@everypar=\toks17
-
-Loading lettrine.cfg
-(/home/gordon/texmf/tex/latex/lettrine/lettrine.cfg))
-(/home/gordon/texmf/tex/latex/initials/Kramer.fd
-File: Kramer.fd 2003/04/02 Font definition file for U/Kramer
-)
-
-Package fontspec Info: Font family 'Kramer(0)' created for font 'Kramer' with
-(fontspec)             options [BoldFont={},ItalicFont={},SmallCapsFont={}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Kramer"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-
 (/home/gordon/texmf/tex/latex/koma-script/scrlayer-scrpage.sty
 Package: scrlayer-scrpage 2019/10/12 v3.27 KOMA-Script package (end user interf
 ace for scrlayer)
@@ -700,20 +836,20 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
 )
-\Gin@req@height=\dimen159
-\Gin@req@width=\dimen160
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
 )
 (/home/gordon/texmf/tex/latex/pgf/frontendlayer/tikz.sty
 (/home/gordon/texmf/tex/latex/pgf/basiclayer/pgf.sty
 (/home/gordon/texmf/tex/latex/pgf/utilities/pgfrcs.sty
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks18
-\pgfutil@tempdima=\dimen161
-\pgfutil@tempdimb=\dimen162
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen171
+\pgfutil@tempdimb=\dimen172
 
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box50
+\pgfutil@abb=\box53
 
 (/home/gordon/texmf/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
@@ -730,32 +866,32 @@ Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
 Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
 
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks19
-\pgfkeys@temptoks=\toks20
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
 
 (/home/gordon/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks21
+\pgfkeys@tmptoks=\toks28
 ))
-\pgf@x=\dimen163
-\pgf@y=\dimen164
-\pgf@xa=\dimen165
-\pgf@ya=\dimen166
-\pgf@xb=\dimen167
-\pgf@yb=\dimen168
-\pgf@xc=\dimen169
-\pgf@yc=\dimen170
-\pgf@xd=\dimen171
-\pgf@yd=\dimen172
+\pgf@x=\dimen173
+\pgf@y=\dimen174
+\pgf@xa=\dimen175
+\pgf@ya=\dimen176
+\pgf@xb=\dimen177
+\pgf@yb=\dimen178
+\pgf@xc=\dimen179
+\pgf@yc=\dimen180
+\pgf@xd=\dimen181
+\pgf@yd=\dimen182
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count273
-\c@pgf@countb=\count274
-\c@pgf@countc=\count275
-\c@pgf@countd=\count276
-\t@pgf@toka=\toks22
-\t@pgf@tokb=\toks23
-\t@pgf@tokc=\toks24
-\pgf@sys@id@count=\count277
+\c@pgf@counta=\count289
+\c@pgf@countb=\count290
+\c@pgf@countc=\count291
+\c@pgf@countd=\count292
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count293
 
 (/home/gordon/texmf/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
@@ -771,12 +907,12 @@ File: pgfsys-dvipdfmx.def 2019/08/03 v3.1.4b (3.1.4b)
 (/home/gordon/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
 )
-\pgfsys@objnum=\count278
+\pgfsys@objnum=\count294
 )))
 (/home/gordon/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfsyssoftpath@smallbuffer@items=\count279
-\pgfsyssoftpath@bigbuffer@items=\count280
+\pgfsyssoftpath@smallbuffer@items=\count295
+\pgfsyssoftpath@bigbuffer@items=\count296
 )
 (/home/gordon/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
@@ -788,12 +924,12 @@ Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen173
-\pgfmath@count=\count281
-\pgfmath@box=\box51
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
+\pgfmath@dimen=\dimen183
+\pgfmath@count=\count297
+\pgfmath@box=\box54
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
 )
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
@@ -805,52 +941,52 @@ x) (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.co
 de.tex))) (/home/gordon/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count282
+\c@pgfmathroundto@lastzeros=\count298
 ))
 (/home/gordon/texmf/tex/generic/pgf/math/pgfint.code.tex)
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@picminx=\dimen174
-\pgf@picmaxx=\dimen175
-\pgf@picminy=\dimen176
-\pgf@picmaxy=\dimen177
-\pgf@pathminx=\dimen178
-\pgf@pathmaxx=\dimen179
-\pgf@pathminy=\dimen180
-\pgf@pathmaxy=\dimen181
-\pgf@xx=\dimen182
-\pgf@xy=\dimen183
-\pgf@yx=\dimen184
-\pgf@yy=\dimen185
-\pgf@zx=\dimen186
-\pgf@zy=\dimen187
+\pgf@picminx=\dimen184
+\pgf@picmaxx=\dimen185
+\pgf@picminy=\dimen186
+\pgf@picmaxy=\dimen187
+\pgf@pathminx=\dimen188
+\pgf@pathmaxx=\dimen189
+\pgf@pathminy=\dimen190
+\pgf@pathmaxy=\dimen191
+\pgf@xx=\dimen192
+\pgf@xy=\dimen193
+\pgf@yx=\dimen194
+\pgf@yy=\dimen195
+\pgf@zx=\dimen196
+\pgf@zy=\dimen197
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@path@lastx=\dimen188
-\pgf@path@lasty=\dimen189
+\pgf@path@lastx=\dimen198
+\pgf@path@lasty=\dimen199
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@shorten@end@additional=\dimen190
-\pgf@shorten@start@additional=\dimen191
+\pgf@shorten@end@additional=\dimen256
+\pgf@shorten@start@additional=\dimen257
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfpic=\box52
-\pgf@hbox=\box53
-\pgf@layerbox@main=\box54
-\pgf@picture@serial@count=\count283
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count299
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgflinewidth=\dimen192
+\pgflinewidth=\dimen258
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@pt@x=\dimen193
-\pgf@pt@y=\dimen194
-\pgf@pt@temp=\dimen195
+\pgf@pt@x=\dimen259
+\pgf@pt@y=\dimen260
+\pgf@pt@temp=\dimen261
 ) (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 )
@@ -862,20 +998,20 @@ File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfarrowsep=\dimen196
+\pgfarrowsep=\dimen262
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@max=\dimen197
-\pgf@sys@shading@range@num=\count284
-\pgf@shadingcount=\count285
+\pgf@max=\dimen263
+\pgf@sys@shading@range@num=\count300
+\pgf@shadingcount=\count301
 )
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfexternal@startupbox=\box55
+\pgfexternal@startupbox=\box58
 ))
 (/home/gordon/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
@@ -891,15 +1027,15 @@ File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 )))
 (/home/gordon/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfnodeparttextbox=\box56
+\pgfnodeparttextbox=\box59
 )
 (/home/gordon/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 )
 (/home/gordon/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@nodesepstart=\dimen198
-\pgf@nodesepend=\dimen199
+\pgf@nodesepstart=\dimen264
+\pgf@nodesepend=\dimen265
 )
 (/home/gordon/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
@@ -913,43 +1049,43 @@ Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
 Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
 
 (/home/gordon/texmf/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen256
-\pgffor@skip=\dimen257
-\pgffor@stack=\toks28
-\pgffor@toks=\toks29
+\pgffor@iter=\dimen266
+\pgffor@skip=\dimen267
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
 ))
 (/home/gordon/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
 
 (/home/gordon/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@plot@mark@count=\count286
-\pgfplotmarksize=\dimen258
+\pgf@plot@mark@count=\count302
+\pgfplotmarksize=\dimen268
 )
-\tikz@lastx=\dimen259
-\tikz@lasty=\dimen260
-\tikz@lastxsaved=\dimen261
-\tikz@lastysaved=\dimen262
-\tikz@lastmovetox=\dimen263
-\tikz@lastmovetoy=\dimen264
-\tikzleveldistance=\dimen265
-\tikzsiblingdistance=\dimen266
-\tikz@figbox=\box57
-\tikz@figbox@bg=\box58
-\tikz@tempbox=\box59
-\tikz@tempbox@bg=\box60
-\tikztreelevel=\count287
-\tikznumberofchildren=\count288
-\tikznumberofcurrentchild=\count289
-\tikz@fig@count=\count290
+\tikz@lastx=\dimen269
+\tikz@lasty=\dimen270
+\tikz@lastxsaved=\dimen271
+\tikz@lastysaved=\dimen272
+\tikz@lastmovetox=\dimen273
+\tikz@lastmovetoy=\dimen274
+\tikzleveldistance=\dimen275
+\tikzsiblingdistance=\dimen276
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count303
+\tikznumberofchildren=\count304
+\tikznumberofcurrentchild=\count305
+\tikz@fig@count=\count306
 
 (/home/gordon/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfmatrixcurrentrow=\count291
-\pgfmatrixcurrentcolumn=\count292
-\pgf@matrix@numberofcolumns=\count293
+\pgfmatrixcurrentrow=\count307
+\pgfmatrixcurrentcolumn=\count308
+\pgf@matrix@numberofcolumns=\count309
 )
-\tikz@expandcount=\count294
+\tikz@expandcount=\count310
 
 (/home/gordon/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytop
 aths.code.tex
@@ -978,12 +1114,12 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 13.0pt
 (typearea)              \footskip       = 54.59984pt
 (typearea)              \baselineskip   = 15.59996pt
-(typearea)              on input line 52.
+(typearea)              on input line 56.
 (/home/gordon/texmf/tex/latex/pgfornament/pgfornament.sty
 (/home/gordon/texmf/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks30
-\pgfopts@list@add@b@toks=\toks31
+\pgfopts@list@add@a@toks=\toks37
+\pgfopts@list@add@b@toks=\toks38
 )
 Package: pgfornament 2016/03/05 v0.21 vector ornaments
 
@@ -1003,182 +1139,22 @@ Package pict2e Info: Driver file for pict2e: p2e-xetex.def on input line 121.
 (/home/gordon/texmf/tex/latex/pict2e/p2e-xetex.def
 File: p2e-xetex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 )
-\pIIe@GRAPH=\toks32
-\@arclen=\dimen267
-\@arcrad=\dimen268
-\@tempdimd=\dimen269
+\pIIe@GRAPH=\toks39
+\@arclen=\dimen277
+\@arcrad=\dimen278
+\@tempdimd=\dimen279
 )
 (/home/gordon/texmf/tex/latex/oberdiek/picture.sty
 Package: picture 2016/05/16 v1.4 Dimens for picture macros (HO)
 Package picture Info: Calculation method: etex.
 )
-\csteps@CBox=\box61
-\csteps@XLength=\skip64
-\csteps@YLength=\skip65
-\csteps@YDepth=\skip66
-\csteps@tmplen=\skip67
-\c@cstepcnt=\count295
+\csteps@CBox=\box64
+\csteps@XLength=\skip68
+\csteps@YLength=\skip69
+\csteps@YDepth=\skip70
+\csteps@tmplen=\skip71
+\c@cstepcnt=\count311
 )
-(/home/gordon/texmf/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2019/11/16 v2.17d AMS math features
-\@mathmargin=\skip68
-
-For additional information on amsmath, use the `?' option.
-(/home/gordon/texmf/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
-
-(/home/gordon/texmf/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks33
-\ex@=\dimen270
-))
-(/home/gordon/texmf/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen271
-)
-(/home/gordon/texmf/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count296
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count297
-\leftroot@=\count298
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count299
-\DOTSCASE@=\count300
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box62
-\strutbox@=\box63
-\big@size=\dimen272
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count301
-\c@MaxMatrixCols=\count302
-\dotsspace@=\muskip16
-\c@parentequation=\count303
-\dspbrk@lvl=\count304
-\tag@help=\toks34
-\row@=\count305
-\column@=\count306
-\maxfields@=\count307
-\andhelp@=\toks35
-\eqnshift@=\dimen273
-\alignsep@=\dimen274
-\tagshift@=\dimen275
-\tagwidth@=\dimen276
-\totwidth@=\dimen277
-\lineht@=\dimen278
-\@envbody=\toks36
-\multlinegap=\skip69
-\multlinetaggap=\skip70
-\mathdisplay@stack=\toks37
-LaTeX Info: Redefining \[ on input line 2858.
-LaTeX Info: Redefining \] on input line 2859.
-)
-(/home/gordon/texmf/tex/latex/archaic/hieroglf.sty
-Package: hieroglf 2015/06/02 v1.4 package for poor mans hieroglyphs
-
-(/home/gordon/texmf/tex/latex/archaic/oands.sty
-Package: oands 2000/08/19 v1.0 package for OandS fonts
-)
-\c@rthm=\skip71
-\c@rtbox=\box64
-\c@rtht=\dimen279
-)
-(/home/gordon/texmf/tex/xelatex/mathspec/mathspec.sty
-Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
-r XeLaTeX)
-
-(/home/gordon/texmf/tex/generic/iftex/ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-
-(/home/gordon/texmf/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-))
-(/home/gordon/texmf/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/home/gordon/texmf/tex/generic/xkeyval/xkeyval.tex
-(/home/gordon/texmf/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks38
-\XKV@tempa@toks=\toks39
-)
-\XKV@depth=\count308
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-\c@eu@=\count309
-\c@eu@i=\count310
-\c@mkern=\count311
-)
-
-Package fontspec Info: Linux Biolinum O scale = 1.206521988747273.
-
-
-Package fontspec Info: Linux Biolinum O scale = 1.206521988747273.
-
-
-Package fontspec Info: Linux Biolinum O scale = 1.206521988747273.
-
-
-Package fontspec Info: Linux Biolinum O/B scale = 1.293706599834744.
-
-
-Package fontspec Info: Linux Biolinum O/B scale = 1.293706599834744.
-
-
-Package fontspec Info: Linux Biolinum O/I scale = 1.293706599834744.
-
-
-Package fontspec Info: Linux Biolinum O/I scale = 1.293706599834744.
-
-
-Package fontspec Info: Linux Biolinum O/BI scale = 1.293706599834744.
-
-
-Package fontspec Info: Linux Biolinum O/BI scale = 1.293706599834744.
-
-
-Package fontspec Info: Font family 'LinuxBiolinumO(0)' created for font 'Linux
-(fontspec)             Biolinum O' with options [Scale=MatchLowercase].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.206521988747273]"Linux Biolinum
-(fontspec)             O/OT:script=latn;language=DFLT;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1.206521988747273]"Linux Biolinum
-(fontspec)             O/OT:script=latn;language=DFLT;+smcp;"
-(fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->s*[1.293706599834744]"Linux Biolinum
-(fontspec)             O/B/OT:script=latn;language=DFLT;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
-(fontspec)             <->s*[1.293706599834744]"Linux Biolinum
-(fontspec)             O/B/OT:script=latn;language=DFLT;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1.293706599834744]"Linux Biolinum
-(fontspec)             O/I/OT:script=latn;language=DFLT;"
-(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
-(fontspec)             <->s*[1.293706599834744]"Linux Biolinum
-(fontspec)             O/I/OT:script=latn;language=DFLT;+smcp;"
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
-(fontspec)             <->s*[1.293706599834744]"Linux Biolinum
-(fontspec)             O/BI/OT:script=latn;language=DFLT;"
-(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-(fontspec)             <->s*[1.293706599834744]"Linux Biolinum
-(fontspec)             O/BI/OT:script=latn;language=DFLT;+smcp;"
-
-\symDigits:m:n=\mathgroup4
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 15.68486pt on input line 64.
-
-Package fontspec Info: Linux Biolinum O scale = 1.206521988747273.
-
-\symLatin:m:n=\mathgroup5
-\symLatin:m:it=\mathgroup6
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1186,21 +1162,21 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
  (./xbinder.aux)
 \openout1 = `xbinder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Info: Redefining \microtypecontext on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Info: Redefining \microtypecontext on input line 65.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1550,11 +1526,15 @@ Underfull \hbox (badness 1817) in paragraph at lines 15--16
 \TU/Merriweather(0)/m/sc/13 Amerika finden? Durchs Mikroskop sehen und
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `TU/Merriweather(0)/m/sl' in size <13> not avail
 able
 (Font)              Font shape `TU/Merriweather(0)/m/it' tried instead on input
  line 16.
 LaTeX Font Info:    Calculating math sizes for size <13> on input line 16.
+
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
 (Font)              size <12> substituted on input line 16.
@@ -1587,29 +1567,35 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <13> not available
 (Font)              size <12> substituted on input line 16.
 
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `LinuxBiolinumO' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 10.97934pt on input line 16.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 7.84242pt on input line 16.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 16.81812pt on input line 16.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 11.77263pt on input line 16.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 8.40906pt on input line 16.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 9.09996pt on input line 16.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 6.5pt on input line 16.
+
+LaTeX Font Warning: Font shape `TU/Merriweather(1)/m/it' undefined
+(Font)              using `TU/Merriweather(1)/m/n' instead on input line 16.
+
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 9.09996pt on input line 16.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 6.5pt on input line 16.
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [3]
 Underfull \hbox (badness 1275) in paragraph at lines 21--22
 \TU/Merriweather(0)/m/sc/13 digen Diskussionen und Belehrungen vielleicht
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [3]
+
 Underfull \hbox (badness 1137) in paragraph at lines 35--36
 \TU/Merriweather(0)/m/sc/13 son kann wiederum nur jemanden fangen, der
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [4]
 Underfull \hbox (badness 1331) in paragraph at lines 41--42
@@ -1617,18 +1603,22 @@ Underfull \hbox (badness 1331) in paragraph at lines 41--42
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [5]
 Underfull \hbox (badness 1831) in paragraph at lines 43--44
 \TU/Merriweather(0)/m/sc/13 ner schmunzelnden Mutter, «  die Wissenschaft
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [5]
 Underfull \hbox (badness 1048) in paragraph at lines 47--48
 []\TU/Merriweather(0)/m/sc/13 «  Und, hast du deine Theorie aufgegeben? Es
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [6]
 Overfull \hbox (8.38138pt too wide) in paragraph at lines 58--59
@@ -1652,11 +1642,14 @@ Underfull \hbox (badness 1019) in paragraph at lines 60--61
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [7]
 Underfull \hbox (badness 1163) in paragraph at lines 62--63
 \TU/Merriweather(0)/m/sc/13 Sachen Gedanken zu machen, nennt man Tak-
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [7]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
 Underfull \hbox (badness 1122) in paragraph at lines 64--65
 \TU/Merriweather(0)/m/sc/13 das Thema nachdenken. Das machte er gerade
@@ -1686,11 +1679,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [11]
 Underfull \hbox (badness 2401) in paragraph at lines 28--29
 []\TU/Merriweather(0)/m/sc/13 Alle kicherten und Frau Zahl nickte zustim-
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [11]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [12]
 Overfull \hbox (15.32341pt too wide) in paragraph at lines 46--47
 \TU/Merriweather(0)/m/sc/13 danken und ein ganz kleines bisschen seiner Schwes-
@@ -1703,10 +1703,13 @@ Underfull \hbox (badness 2088) in paragraph at lines 46--47
  []
 
 
-Underfull \vbox (badness 1028) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [14]
 Underfull \hbox (badness 1199) in paragraph at lines 62--63
 \TU/Merriweather(0)/m/sc/13 kommen, wo die [] waren, dem Highlight des
@@ -1722,14 +1725,22 @@ Underfull \hbox (badness 2772) in paragraph at lines 68--69
 \TU/Merriweather(0)/m/sc/13 scheuchen.», antwortete [], wusste aber auch
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [15]
-Underfull \vbox (badness 6252) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [16]
 Underfull \hbox (badness 1112) in paragraph at lines 88--89
 []\TU/Merriweather(0)/m/sc/13 «  Ich habe das [] nur betäubt und hole euch
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [17]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
@@ -1743,7 +1754,7 @@ Underfull \hbox (badness 1237) in paragraph at lines 100--101
  []
 
 
-Underfull \vbox (badness 4518) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [18]
@@ -1766,6 +1777,10 @@ Overfull \hbox (4.66647pt too wide) in paragraph at lines 13--14
 \TU/Merriweather(0)/m/sc/13 sinnig wurden oder ganz verschwunden sind, über-
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [21]
 Underfull \hbox (badness 1052) in paragraph at lines 17--18
 \TU/Merriweather(0)/m/sc/13 hend, verwelkt. Auf mein Klopfen reagiert nie-
@@ -1781,12 +1796,20 @@ Underfull \hbox (badness 1158) in paragraph at lines 17--18
 \TU/Merriweather(0)/m/sc/13 trangend, Zepter zur Schau stellend, Herschaf-
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [22]
 Underfull \hbox (badness 1014) in paragraph at lines 22--23
 \TU/Merriweather(0)/m/sc/13 Essens eingeschlafen sein, warum erinnere ich
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [23]
 Underfull \hbox (badness 1270) in paragraph at lines 26--27
 \TU/Merriweather(0)/m/sc/13 erschrocken von meiner Unhöflichkeit, verbeu-
  []
@@ -1796,7 +1819,10 @@ Underfull \hbox (badness 2173) in paragraph at lines 26--27
 \TU/Merriweather(0)/m/sc/13 eingeschlafen zu sein, mit einer angedeuteten
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [23]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [24]
 Underfull \hbox (badness 1270) in paragraph at lines 34--35
 []\TU/Merriweather(0)/m/sc/13 Ich stütze mich auf den Tisch, der Schweiss
@@ -1808,11 +1834,15 @@ Underfull \hbox (badness 1342) in paragraph at lines 34--35
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [25])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [25]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [26])
 (./kapitel/zahlen.tex
 File: ./bilder/pi.png Graphic file (type bmp)
 <./bilder/pi.png>
- [26]
+ [27]
 Package lettrine.sty Info: Targeted height = 38.41492pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 48.01862pt (A) loversize=.25;
@@ -1846,7 +1876,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 16--17
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [27]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [28]
 LaTeX Font Info:    Calculating math sizes for size <10.83347> on input line 20
 .
 
@@ -1874,34 +1904,44 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.58339> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.41673> not available
 (Font)              size <5> substituted on input line 20.
 
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 13.07086pt on input line 20.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 9.14957pt on input line 20.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 6.53543pt on input line 20.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 14.01526pt on input line 20.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 9.81064pt on input line 20.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 7.00763pt on input line 20.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 10.83347pt on input line 20.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 7.58339pt on input line 20.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 5.41673pt on input line 20.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 10.83347pt on input line 20.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 7.58339pt on input line 20.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 5.41673pt on input line 20.
 
 Overfull \hbox (3.92853pt too wide) in paragraph at lines 20--21
 []\TU/Merriweather(0)/m/sc/13 Ein Beispiel für Mathematik. Die folgenden Über-
  []
 
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 13.0pt on input line 22.
 Missing character: There is no ǃ in font Merriweather Regular/OT:script=latn;la
 nguage=DFLT;mapping=tex-text;!
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [28]
+
+Underfull \vbox (badness 1590) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [29]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [30]
 Missing character: There is no ’ in font cmr12!
 
 Underfull \hbox (badness 1281) in paragraph at lines 30--31
 \TU/Merriweather(0)/m/sc/13 wächst unglaublich schnell, das bedeutet, dass
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [30]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [31]
 Missing character: There is no ’ in font cmr10!
 
 Underfull \hbox (badness 2035) in paragraph at lines 38--39
@@ -1926,42 +1966,40 @@ n das Zeichen $\OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 =$ \TU/Merriweather(0)/m/sc/13
  wohl auspricht?
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [31]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [33]
 Underfull \hbox (badness 1067) in paragraph at lines 46--48
 \TU/Merriweather(0)/m/sc/13 men (weil das sonst nicht cool wäre, habe ich
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 49--50
-[]\TU/Merriweather(0)/m/sc/13 Und wenn du dann wieder ans Ende gekom-
+Underfull \hbox (badness 1442) in paragraph at lines 49--50
+\TU/Merriweather(0)/m/sc/13 vorne dran, nach $[] \OML/cmm/m/it/12 ; [][]; [][]$
+ \TU/Merriweather(0)/m/sc/13 geht es weiter mit
  []
 
-
-Underfull \hbox (badness 2005) in paragraph at lines 49--50
-\TU/Merriweather(0)/m/sc/13 und fängst da an hochzuzählen: $[] \OML/cmm/m/it/12
- ; [][]; [][]$ \TU/Merriweather(0)/m/sc/13 und
- []
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [33]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [34]
 Underfull \hbox (badness 1430) in paragraph at lines 51--52
 \TU/Merriweather(0)/m/sc/13 du nämlich Zahlen schreiben willst (oder eher
  []
 
 LaTeX Font Info:    Calculating math sizes for size <11.86258> on input line 57
 .
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 14.31253pt on input line 57.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 10.0187pt on input line 57.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/n' will be
-(Font)              scaled to size 7.15627pt on input line 57.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 15.34662pt on input line 57.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 10.74257pt on input line 57.
-LaTeX Font Info:    Font shape `TU/LinuxBiolinumO(0)/m/it' will be
-(Font)              scaled to size 7.67331pt on input line 57.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 11.86258pt on input line 57.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 8.30376pt on input line 57.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
+(Font)              scaled to size 5.93129pt on input line 57.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 11.86258pt on input line 57.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 8.30376pt on input line 57.
+LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
+(Font)              scaled to size 5.93129pt on input line 57.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NotoSansTamil' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2924,11 +2962,15 @@ Package microtype Info: Character `\textgreater ' is missing
 (microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
 (microtype)             Ignoring protrusion settings for this character.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [35]
 Underfull \hbox (badness 1460) in paragraph at lines 69--70
 \TU/Merriweather(0)/m/sc/13 Minus gekennzeichnet) und dann so verrückte
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [34]
+
 Underfull \hbox (badness 1648) in paragraph at lines 71--72
 \TU/Merriweather(0)/m/sc/13 übrigens leicht variieren. Warum zum Beispiel
  []
@@ -2943,8 +2985,8 @@ Underfull \hbox (badness 1688) in paragraph at lines 71--72
 \TU/Merriweather(0)/m/sc/13 Computers ganz vereinfacht vorstellen als vie-
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [35]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [36]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [37]
 File: ./bilder/Maya1976.png Graphic file (type bmp)
 <./bilder/Maya1976.png>
 
@@ -2952,7 +2994,7 @@ Overfull \hbox (13.0pt too wide) in paragraph at lines 88--89
 [][] 
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [37]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [38]
 Underfull \hbox (badness 3098) in paragraph at lines 94--96
 \TU/Merriweather(0)/m/sc/13 zum Beispiel Ägäische Zahlzeichen überliefert.
  []
@@ -2979,10 +3021,10 @@ c/13 . Cäsar und die anderen im alten
  []
 
 
-Underfull \vbox (badness 2368) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [38]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [39]
 Underfull \hbox (badness 1043) in paragraph at lines 101--102
 \TU/Merriweather(0)/m/sc/13 siebzehn setzt sich auch sprachlich zusammen
  []
@@ -3000,6 +3042,10 @@ Sehr blöd. Wir nennen
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [40]
 Overfull \hbox (4.31421pt too wide) in paragraph at lines 105--106
 \TU/Merriweather(0)/m/it/13 minus ein Halb) mal Zwanzig \TU/Merriweather(0)/m/s
 c/13 bedeutet. Schnell nach-
@@ -3010,7 +3056,7 @@ Underfull \hbox (badness 1990) in paragraph at lines 105--106
 \TU/Merriweather(0)/m/sc/13 spielt im Hintergrund solange mein Hirn sich
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [39]
+
 Underfull \hbox (badness 1946) in paragraph at lines 107--108
 \TU/Merriweather(0)/m/sc/13 im Dänischen, wie auch im Französischen die
  []
@@ -3019,7 +3065,7 @@ Underfull \hbox (badness 1946) in paragraph at lines 107--108
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [40]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [41]
 Underfull \hbox (badness 2547) in paragraph at lines 111--112
 []\TU/Merriweather(0)/m/sc/13 Unser Körper bestimmt unser Zahlensystem.
  []
@@ -3029,10 +3075,21 @@ Underfull \hbox (badness 4872) in paragraph at lines 111--112
 \TU/Merriweather(0)/m/sc/13 weise «  Frauenrechnen» oder «   Arithmetik aus
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [41]
+
+Underfull \vbox (badness 1496) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [42]
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [44]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [45]
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 154.
 
@@ -3050,25 +3107,49 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 154.
 Missing character: There is no ° in font cmr12!
 Missing character: There is no ° in font cmr12!
 
-Underfull \vbox (badness 5105) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [44]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [46]
 File: ./bilder/kreis.png Graphic file (type bmp)
 <./bilder/kreis.png>
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [45])
-[46
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [47])
+(./kapitel/drachen.tex
+File: ./bilder/fangen.png Graphic file (type bmp)
+<./bilder/fangen.png>
+ [48]
+Package lettrine.sty Info: Targeted height = 38.41492pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 47.76219pt (I) loversize=.25;
+(lettrine.sty)             reported on input line 12.
+
+Underfull \hbox (badness 2261) in paragraph at lines 14--15
+\TU/Merriweather(0)/m/sc/13 Gladiator. Sklave um Sklaven zu töten. Besitz,
+ []
 
 
-]
-Package tocbasic Info: character protrusion at toc deactivated on input line 79
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [49]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
+Underfull \hbox (badness 2573) in paragraph at lines 22--23
+\TU/Merriweather(0)/m/sc/13 pers. Fliegen. Mein Schrei vor mir. Verkündet
+ []
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [50])
+Package tocbasic Info: character protrusion at toc deactivated on input line 78
 .
- (./xbinder.toc)
+
+(./xbinder.toc)
 \tf@toc=\write4
 \openout4 = `xbinder.toc'.
 
- [47] (./xbinder.aux)
+ [51
+
+
+] (./xbinder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -3078,12 +3159,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32944 strings out of 492909
- 714772 string characters out of 6135046
- 974897 words of memory out of 5000000
- 36369 multiletter control sequences out of 15000+600000
- 540897 words of font info for 138 fonts, out of 8000000 for 9000
+ 32933 strings out of 492909
+ 714327 string characters out of 6135046
+ 974063 words of memory out of 5000000
+ 36362 multiletter control sequences out of 15000+600000
+ 540785 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 76i,21n,120p,10089b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,21n,120p,10089b,879s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on xbinder.pdf (47 pages).
+Output written on xbinder.pdf (51 pages).

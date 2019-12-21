@@ -2,4 +2,5 @@
 \contentsline {chapter}{Fangen}{1}% 
 \contentsline {chapter}{Das X ist los}{9}% 
 \contentsline {chapter}{Wheterby Castle}{20}% 
-\contentsline {chapter}{Zahlen und Ziffern}{26}% 
+\contentsline {chapter}{Zahlen und Ziffern}{27}% 
+\contentsline {chapter}{Der Drache}{48}% 

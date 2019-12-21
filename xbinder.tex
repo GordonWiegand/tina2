@@ -21,8 +21,17 @@
 \newfontface\FontG{Noto Sans CJK JP}
 \newfontface\FontH{Noto Sans Arabic}
 \newfontface\FontI{Noto Sans Yi}
-
- 
+%Ermöglicht Zierkapitälchen zum Anbsatzanfang
+\usepackage{lettrine}
+\input Kramer.fd
+\newfontface\FontJ{Kramer}
+\renewcommand{\LettrineFontHook}{\color{farbe}\relax\FontJ}
+%Hiroglyphen
+\usepackage{hieroglf}
+%Für kapitel Zahlen
+\usepackage{amsmath}
+\usepackage{mathspec}
+\setmathfont(Digits,Latin)[Scale=MatchLowercase]{Merriweather}
 %Erlaubt Einsatz von Farbe
 \usepackage[svgnames]{xcolor}
 \definecolor{farbe}{HTML}{766D20}
@@ -30,11 +39,6 @@
 %\usepackage[utf8]{inputenc}
 %Schweizer Anführungszeichen
 \usepackage[german=swiss]{csquotes}
-%Ermöglicht Zierkapitälchen zum Anbsatzanfang
-\usepackage{lettrine}
-\input Kramer.fd
-\newfontface\FontJ{Kramer}
-\renewcommand{\LettrineFontHook}{\color{farbe}\relax\FontJ}
 %Um Seitenkopf zu manipulieren
 \usepackage{scrlayer-scrpage}
 \pagestyle{scrheadings} 
@@ -55,14 +59,8 @@
 \chead{\color{farbe}\pgfornament[width=\textwidth,color=farbe]{89}}
 %Umkreiste Nummern
 \usepackage{circledsteps}
-%Für kapitel Zahlen
-\usepackage{amsmath}
-\usepackage{hieroglf}
-%\usepackage{mathspec}
-%\setmathsfont(Digits,Latin,Greek)[Numbers={Lining,Proportional}]{Roboto Slab}
-\usepackage{mathspec}
-\setmathfont(Digits,Latin)[Scale=MatchLowercase]{Linux Biolinum O}
-
+%Abstand Absätze
+\setlength{\parskip}{.2em} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %titelseite
@@ -72,6 +70,7 @@
 \input{./kapitel/acht}
 \input{./kapitel/wheterby}
 \input{./kapitel/zahlen}
+\input{./kapitel/drachen}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Inhaltsverzeichnis
 \newpage
