@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  21 DEC 2019 07:34
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  22 DEC 2019 10:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,46 +715,27 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 \c@mkern=\count282
 )
 
-Package fontspec Info: Merriweather scale = 1.
-
-
 Package fontspec Info: Could not resolve font "Merriweather/I" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Merriweather scale = 1.
-
-
-Package fontspec Info: Merriweather/B scale = 0.9982013705050096.
-
-
-Package fontspec Info: Merriweather/BI scale = 0.9982013705050096.
-
-
 Package fontspec Info: Font family 'Merriweather(1)' created for font
-(fontspec)             'Merriweather' with options [Scale=MatchLowercase].
+(fontspec)             'Merriweather' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"Merriweather/OT:script=latn;language=DFLT;"
+(fontspec)             <->"Merriweather/OT:script=latn;language=DFLT;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->s*[0.9982013705050096]"Merriweather/B/OT:script=latn;
-language=DFLT;"
+(fontspec)             <->"Merriweather/B/OT:script=latn;language=DFLT;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
 (fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
-(fontspec)             <->s*[0.9982013705050096]"Merriweather/BI/OT:script=latn
-;language=DFLT;"
+(fontspec)             <->"Merriweather/BI/OT:script=latn;language=DFLT;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
 \symDigits:m:n=\mathgroup4
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 13.0pt on input line 34.
-
-Package fontspec Info: Merriweather scale = 1.
-
 \symLatin:m:n=\mathgroup5
 \symLatin:m:it=\mathgroup6
 
@@ -1567,18 +1548,10 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <13> not available
 (Font)              size <12> substituted on input line 16.
 
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 9.09996pt on input line 16.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 6.5pt on input line 16.
 
 LaTeX Font Warning: Font shape `TU/Merriweather(1)/m/it' undefined
 (Font)              using `TU/Merriweather(1)/m/n' instead on input line 16.
 
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 9.09996pt on input line 16.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 6.5pt on input line 16.
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1760,8 +1733,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [18]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [19])
 (./kapitel/wheterby.tex
-File: ./bilder/wheterby.png Graphic file (type bmp)
-<./bilder/wheterby.png>
+File: ./bilder/wheterby2.png Graphic file (type bmp)
+<./bilder/wheterby2.png>
  [20]
 Package lettrine.sty Info: Targeted height = 38.41492pt
 (lettrine.sty)             (no accent, loversize=0),
@@ -1868,11 +1841,6 @@ Underfull \hbox (badness 1014) in paragraph at lines 16--17
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 16--17
-\TU/Merriweather(0)/m/sc/13 du wörtlich verstehen. Wenn es Ausserirdische
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1904,25 +1872,11 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.58339> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.41673> not available
 (Font)              size <5> substituted on input line 20.
 
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 10.83347pt on input line 20.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 7.58339pt on input line 20.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 5.41673pt on input line 20.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 10.83347pt on input line 20.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 7.58339pt on input line 20.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 5.41673pt on input line 20.
 
 Overfull \hbox (3.92853pt too wide) in paragraph at lines 20--21
 []\TU/Merriweather(0)/m/sc/13 Ein Beispiel für Mathematik. Die folgenden Über-
  []
 
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 13.0pt on input line 22.
 Missing character: There is no ǃ in font Merriweather Regular/OT:script=latn;la
 nguage=DFLT;mapping=tex-text;!
 
@@ -1988,18 +1942,6 @@ Underfull \hbox (badness 1430) in paragraph at lines 51--52
 
 LaTeX Font Info:    Calculating math sizes for size <11.86258> on input line 57
 .
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 11.86258pt on input line 57.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 8.30376pt on input line 57.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/n' will be
-(Font)              scaled to size 5.93129pt on input line 57.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 11.86258pt on input line 57.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 8.30376pt on input line 57.
-LaTeX Font Info:    Font shape `TU/Merriweather(1)/m/it' will be
-(Font)              scaled to size 5.93129pt on input line 57.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NotoSansTamil' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -3116,8 +3058,8 @@ File: ./bilder/kreis.png Graphic file (type bmp)
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [47])
 (./kapitel/drachen.tex
-File: ./bilder/fangen.png Graphic file (type bmp)
-<./bilder/fangen.png>
+File: ./bilder/drache.png Graphic file (type bmp)
+<./bilder/drache.png>
  [48]
 Package lettrine.sty Info: Targeted height = 38.41492pt
 (lettrine.sty)             (no accent, loversize=0),
@@ -3159,10 +3101,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32933 strings out of 492909
- 714327 string characters out of 6135046
- 974063 words of memory out of 5000000
- 36362 multiletter control sequences out of 15000+600000
+ 32938 strings out of 492909
+ 714377 string characters out of 6135046
+ 974024 words of memory out of 5000000
+ 36365 multiletter control sequences out of 15000+600000
  540785 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,21n,120p,10089b,879s stack positions out of 5000i,500n,10000p,200000b,80000s
