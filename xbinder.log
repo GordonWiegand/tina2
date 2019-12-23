@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  22 DEC 2019 10:05
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  22 DEC 2019 11:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**xbinder
+**xbinder.tex
 (./xbinder.tex
 LaTeX2e <2018-12-01>
 (/home/gordon/texmf/tex/latex/koma-script/scrbook.cls
@@ -1605,12 +1605,7 @@ Overfull \hbox (8.36665pt too wide) in paragraph at lines 58--59
  []
 
 
-Overfull \hbox (19.9716pt too wide) in paragraph at lines 58--59
-\TU/Merriweather(0)/m/sc/13 800m, 1500m, 10000m und Marathon», «  42.195km»,
- []
-
-
-Underfull \hbox (badness 1019) in paragraph at lines 60--61
+Underfull \hbox (badness 1019) in paragraph at lines 64--65
 \TU/Merriweather(0)/m/sc/13 Fehler liegen. Natürlich, alle Spieler haben un-
  []
 
@@ -1619,12 +1614,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [7]
-Underfull \hbox (badness 1163) in paragraph at lines 62--63
+Underfull \hbox (badness 1163) in paragraph at lines 66--67
 \TU/Merriweather(0)/m/sc/13 Sachen Gedanken zu machen, nennt man Tak-
  []
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
-Underfull \hbox (badness 1122) in paragraph at lines 64--65
+Underfull \hbox (badness 1122) in paragraph at lines 68--69
 \TU/Merriweather(0)/m/sc/13 das Thema nachdenken. Das machte er gerade
  []
 
@@ -1665,12 +1660,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [12]
-Overfull \hbox (15.32341pt too wide) in paragraph at lines 46--47
-\TU/Merriweather(0)/m/sc/13 danken und ein ganz kleines bisschen seiner Schwes-
-
- []
-
-
 Underfull \hbox (badness 2088) in paragraph at lines 46--47
 \TU/Merriweather(0)/m/sc/13 ter, die dort arbeitet. Wir treffen uns morgen
  []
@@ -1877,8 +1866,13 @@ Overfull \hbox (3.92853pt too wide) in paragraph at lines 20--21
 []\TU/Merriweather(0)/m/sc/13 Ein Beispiel für Mathematik. Die folgenden Über-
  []
 
-Missing character: There is no ǃ in font Merriweather Regular/OT:script=latn;la
-nguage=DFLT;mapping=tex-text;!
+! Undefined control sequence.
+<argument> ...tesep \ignorespaces Die Sprache \ǃX 
+                                                  \'{o}\~{o} heisst tatsächl...
+l.22 ...ür unsere Ohren klingt das sehr spannend!}
+                                                  . Aber wie so oft üblich, ...
+
+? 
 
 Underfull \vbox (badness 1590) has occurred while \output is active []
 
@@ -1887,8 +1881,13 @@ Underfull \vbox (badness 1590) has occurred while \output is active []
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [30]
 Missing character: There is no ’ in font cmr12!
 
-Underfull \hbox (badness 1281) in paragraph at lines 30--31
-\TU/Merriweather(0)/m/sc/13 wächst unglaublich schnell, das bedeutet, dass
+Underfull \hbox (badness 1460) in paragraph at lines 30--31
+[]\TU/Merriweather(0)/m/sc/13 Das verrückte an dieser Formel ist, dass die
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 30--31
+\TU/Merriweather(0)/m/sc/13 tet, dass die Anzahl möglicher Kombinationen
  []
 
 
@@ -1912,7 +1911,7 @@ Underfull \hbox (badness 1043) in paragraph at lines 38--39
 \TU/Merriweather(0)/m/sc/13 logischen Aufbau der Ziffern, dazu komme ich
  []
 
-
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [32]
 Overfull \hbox (25.67798pt too wide) in paragraph at lines 40--41
 \OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 =$\TU/Merriweather(0)/m/it/13 nûm \TU/Merriwe
 ather(0)/m/sc/13 auf $\OT1/cmr/m/n/12 !$\TU/Merriweather(0)/m/sc/13 Xóõ. Wie ma
@@ -1920,7 +1919,7 @@ n das Zeichen $\OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 =$ \TU/Merriweather(0)/m/sc/13
  wohl auspricht?
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [32]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1929,18 +1928,23 @@ Underfull \hbox (badness 1067) in paragraph at lines 46--48
 \TU/Merriweather(0)/m/sc/13 men (weil das sonst nicht cool wäre, habe ich
  []
 
-
-Underfull \hbox (badness 1442) in paragraph at lines 49--50
-\TU/Merriweather(0)/m/sc/13 vorne dran, nach $[] \OML/cmm/m/it/12 ; [][]; [][]$
- \TU/Merriweather(0)/m/sc/13 geht es weiter mit
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [34]
+Underfull \hbox (badness 1052) in paragraph at lines 49--50
+\TU/Merriweather(0)/m/sc/13 mit $[] \OML/cmm/m/it/12 ; [][][]; [][][]; [][][] [
+] $\TU/Merriweather(0)/m/sc/13 . Alles sehr schön logisch
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [34]
-Underfull \hbox (badness 1430) in paragraph at lines 51--52
+
+Underfull \hbox (badness 1430) in paragraph at lines 52--53
 \TU/Merriweather(0)/m/sc/13 du nämlich Zahlen schreiben willst (oder eher
  []
 
-LaTeX Font Info:    Calculating math sizes for size <11.86258> on input line 57
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [35]
+LaTeX Font Info:    Calculating math sizes for size <11.86258> on input line 58
 .
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NotoSansTamil' (encoding: TU).
@@ -2187,8 +2191,6 @@ Package microtype Info: Character `\textless ' is missing
 Package microtype Info: Character `\textgreater ' is missing
 (microtype)             in font `\TU/NotoSansThai(0)/m/n/11.86258'.
 (microtype)             Ignoring protrusion settings for this character.
-Missing character: There is no 0 in font Noto Sans Thai Regular/OT:script=DFLT;
-language=DFLT;!
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NotoSansGeorgian' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2904,44 +2906,49 @@ Package microtype Info: Character `\textgreater ' is missing
 (microtype)             in font `\TU/NotoSansYi(0)/m/n/11.86258'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [35]
-Underfull \hbox (badness 1460) in paragraph at lines 69--70
+Underfull \hbox (badness 1460) in paragraph at lines 70--71
 \TU/Merriweather(0)/m/sc/13 Minus gekennzeichnet) und dann so verrückte
  []
 
-
-Underfull \hbox (badness 1648) in paragraph at lines 71--72
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [36]
+Underfull \hbox (badness 1648) in paragraph at lines 72--73
 \TU/Merriweather(0)/m/sc/13 übrigens leicht variieren. Warum zum Beispiel
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 71--72
+Underfull \hbox (badness 1237) in paragraph at lines 72--73
 \TU/Merriweather(0)/m/sc/13 als Kind damit beginnt. Aber das ist nicht im-
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 71--72
+Underfull \hbox (badness 1688) in paragraph at lines 72--73
 \TU/Merriweather(0)/m/sc/13 Computers ganz vereinfacht vorstellen als vie-
  []
 
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [36]
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [37]
 File: ./bilder/Maya1976.png Graphic file (type bmp)
 <./bilder/Maya1976.png>
 
-Overfull \hbox (13.0pt too wide) in paragraph at lines 88--89
+Overfull \hbox (13.0pt too wide) in paragraph at lines 90--91
 [][] 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [38]
-Underfull \hbox (badness 3098) in paragraph at lines 94--96
+Underfull \hbox (badness 3098) in paragraph at lines 96--98
 \TU/Merriweather(0)/m/sc/13 zum Beispiel Ägäische Zahlzeichen überliefert.
  []
 
-LaTeX Font Info:    Try loading font information for OT1+pmhg on input line 99.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [39]
+LaTeX Font Info:    Try loading font information for OT1+pmhg on input line 101
+.
 
 (/home/gordon/texmf/tex/latex/archaic/ot1pmhg.fd
 File: ot1pmhg.fd 2000/08/19 v1.0 PM Hieroglyphic font definitions
@@ -2957,30 +2964,14 @@ Package microtype Warning: Font `OT1/pmhg/m/n/13' does not specify its
 (microtype)                protrusion will not work with this font.
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 99--100
+Underfull \hbox (badness 1590) in paragraph at lines 101--102
 \TU/Merriweather(0)/m/sc/13 1’000’000 \OT1/pmhg/m/n/13 7\TU/Merriweather(0)/m/s
 c/13 . Cäsar und die anderen im alten
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [39]
-Underfull \hbox (badness 1043) in paragraph at lines 101--102
+Underfull \hbox (badness 1043) in paragraph at lines 103--104
 \TU/Merriweather(0)/m/sc/13 siebzehn setzt sich auch sprachlich zusammen
- []
-
-Missing character: There is no ’ in font cmr12!
-
-Underfull \hbox (badness 1642) in paragraph at lines 103--104
-\TU/Merriweather(0)/m/it/13 und dreissig tausend sieben hundert und zwei und
- []
-
-
-Underfull \hbox (badness 2828) in paragraph at lines 103--104
-\TU/Merriweather(0)/m/it/13 achtzig \TU/Merriweather(0)/m/sc/13 ausgesprochen. 
-Sehr blöd. Wir nennen
  []
 
 
@@ -2988,19 +2979,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [40]
-Overfull \hbox (4.31421pt too wide) in paragraph at lines 105--106
+Missing character: There is no ’ in font cmr12!
+
+Underfull \hbox (badness 1642) in paragraph at lines 105--106
+\TU/Merriweather(0)/m/it/13 und dreissig tausend sieben hundert und zwei und
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 105--106
+\TU/Merriweather(0)/m/it/13 achtzig \TU/Merriweather(0)/m/sc/13 ausgesprochen. 
+Sehr blöd. Wir nennen
+ []
+
+
+Overfull \hbox (4.31421pt too wide) in paragraph at lines 107--108
 \TU/Merriweather(0)/m/it/13 minus ein Halb) mal Zwanzig \TU/Merriweather(0)/m/s
 c/13 bedeutet. Schnell nach-
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 105--106
+Underfull \hbox (badness 1990) in paragraph at lines 107--108
 \TU/Merriweather(0)/m/sc/13 spielt im Hintergrund solange mein Hirn sich
- []
-
-
-Underfull \hbox (badness 1946) in paragraph at lines 107--108
-\TU/Merriweather(0)/m/sc/13 im Dänischen, wie auch im Französischen die
  []
 
 
@@ -3008,22 +3007,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [41]
-Underfull \hbox (badness 2547) in paragraph at lines 111--112
+Underfull \hbox (badness 1946) in paragraph at lines 109--110
+\TU/Merriweather(0)/m/sc/13 im Dänischen, wie auch im Französischen die
+ []
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [42]
+Underfull \hbox (badness 2547) in paragraph at lines 113--114
 []\TU/Merriweather(0)/m/sc/13 Unser Körper bestimmt unser Zahlensystem.
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 111--112
+Underfull \hbox (badness 4872) in paragraph at lines 113--114
 \TU/Merriweather(0)/m/sc/13 weise «  Frauenrechnen» oder «   Arithmetik aus
  []
-
-
-Underfull \vbox (badness 1496) has occurred while \output is active []
-
-
-(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [42]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3033,18 +3029,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf)
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [45]
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 154.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 154.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
 Missing character: There is no ° in font cmr9!
 Missing character: There is no ° in font cmr12!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 154.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 154.
+LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
 Missing character: There is no ° in font cmr12!
 Missing character: There is no ° in font cmr12!
@@ -3101,12 +3097,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32938 strings out of 492909
- 714377 string characters out of 6135046
- 974024 words of memory out of 5000000
- 36365 multiletter control sequences out of 15000+600000
- 540785 words of font info for 124 fonts, out of 8000000 for 9000
+ 32942 strings out of 492909
+ 714522 string characters out of 6135046
+ 973024 words of memory out of 5000000
+ 36368 multiletter control sequences out of 15000+600000
+ 540793 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,21n,120p,10089b,879s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,21n,120p,10093b,796s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on xbinder.pdf (51 pages).
