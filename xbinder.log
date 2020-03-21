@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  7 FEB 2020 19:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.10.28)  21 MAR 2020 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3078,8 +3078,8 @@ Underfull \hbox (badness 2573) in paragraph at lines 22--23
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [50])
 (./kapitel/sakura.tex
-File: ./bilder/vereinigung.png Graphic file (type bmp)
-<./bilder/vereinigung.png>
+File: ./bilder/schwert.png Graphic file (type bmp)
+<./bilder/schwert.png>
  [51]
 Package lettrine.sty Info: Targeted height = 38.41492pt
 (lettrine.sty)             (no accent, loversize=0),
@@ -3138,17 +3138,43 @@ File: ./bilder/vereinigung.png Graphic file (type bmp)
 <./bilder/vereinigung.png>
 
 (/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [55])
-[56
+(./kapitel/laura.tex
+File: ./bilder/schwert.png Graphic file (type bmp)
+<./bilder/schwert.png>
+ [56]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [57]
+Package lettrine.sty Info: Targeted height = 38.41492pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 48.01862pt (L) loversize=.25;
+(lettrine.sty)             reported on input line 13.
+
+Underfull \hbox (badness 3579) in paragraph at lines 13--14
+[][] \TU/Merriweather(0)/m/sc/13 ein 14-jähriges Mädchen, hat eine
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 17--18
+[]\TU/Merriweather(0)/m/sc/13 An einem Morgen wachte Laura auf. Sie be-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [58]
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian3.pgf))
+(/home/gordon/texmf/tex/generic/pgfornament/vectorian/vectorian89.pgf) [59]
+[60
 
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 79
+Package tocbasic Info: character protrusion at toc deactivated on input line 80
 .
  (./xbinder.toc)
 \tf@toc=\write4
 \openout4 = `xbinder.toc'.
 
- [57] (./xbinder.aux)
+ [61] (./xbinder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -3158,12 +3184,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32966 strings out of 492909
- 715533 string characters out of 6135046
+ 32987 strings out of 492909
+ 716356 string characters out of 6135046
  973024 words of memory out of 5000000
- 36378 multiletter control sequences out of 15000+600000
+ 36387 multiletter control sequences out of 15000+600000
  540793 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  70i,21n,120p,10089b,796s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on xbinder.pdf (57 pages).
+Output written on xbinder.pdf (61 pages).
